@@ -1,0 +1,17 @@
+{% comment %}
+Logic that makes the authre "Mike" = admin
+{% endcomment %}
+{% if post.author == "Mike" %}
+	{% assign author-url = "admin" %}
+{% else %}
+	{% assign author-url = post.author %}
+{% endif %}
+
+  <h2 class="entry-title"><a href="{{site.baseurl}}{{ post.url }}" rel="bookmark">{{ post.breadcrumb }}</a></h2>
+
+  <div class="entry-meta">
+    <span class="meta-prep meta-prep-author">Posted on</span>
+    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.date | date: "%B %d, %Y" }}" rel="bookmark"><span class="entry-date">{{ post.date | date: "%B %d, %Y" }}</span></a>
+    <span class="meta-sep">by</span>
+    <span class="author vcard"><a class="url fn n" href="{{ site.baseurl }}/author/{{ author-url }}/" title="View all posts by {{ post.author }}">{{ post.author }}</a></span>
+  </div><!-- .entry-meta -->

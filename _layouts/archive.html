@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+{% assign archive = page.archive-name | downcase %}
+
+{% if page.archive-type == 'Tag' %}
+  {% assign posts = site.tags.[archive] %}
+{% elsif page.archive-type == 'Category' %}
+  {% assign posts = site.categories.[archive] %}
+{% elsif page.archive-type == 'Category' %}
+  {% assign posts = site.categories.[archive] %}
+{% elsif page.archive-type == 'Monthly' %}
+  {% assign posts = site.posts %}
+{% else %}
+  {% assign posts = (site.posts | where:"author",page.archive-name) %}
+{% endif %}
+
+<h1 class="page-title">{{ page.archive-type | capitalize }} Archives: <span>{{ page.archive-name }}</span></h1>
+
+{% for post in posts %}
+
+  {% assign show-post = true %}
+
+  {% if page.archive-type == 'Monthly' %}
+    {% assign thisyear = post.date | date: "%B %Y" %}
+    {% if thisyear != page.archive-name %}
+      {% assign show-post = false %}
+    {% endif %}
+  {% endif %}
+
+  {% if show-post %}
+  <div class="post type-post status-publish format-standard hentry">
+
+    {% comment %}<!-- Blog header -->{% endcomment %}
+    {% include blog-header.html %}
+
+    <div class="entry-summary">
+      {% if post.content contains '<!--more-->' %}
+          {{ post.content | split:'<!--more-->' | first }}
+      {% else %}
+          {{ post.excerpt }}
+      {% endif %}
+      <p><a href="{{ site.baseurl }}{{ post.url }}">Continue reading <span class="meta-nav">→</span></a></p>
+    </div><!-- .entry-summary -->
+
+    {% comment %}<!-- Blog footer/meta information line -->{% endcomment %}
+    {% include blog-meta-line.html %}
+    
+  </div>
+  {% endif %}
+
+{% endfor %}
+
+<div id="nav-below" class="navigation">
+  <div class="nav-previous"><a href="category/travel/page/2/"><span class="meta-nav">←</span> Older posts</a></div>
+  <div class="nav-next"></div>
+</div>

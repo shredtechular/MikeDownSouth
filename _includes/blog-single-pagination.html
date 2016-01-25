@@ -1,0 +1,15 @@
+<!-- blog pagination -->
+<div id="nav-{{include.location}}" class="navigation">
+  {% if page.previous.url %}
+  <div class="nav-previous">
+    <a href="{{ site.baseurl }}{{ page.previous.url }}" rel="prev"><span class="meta-nav">←</span> {{ page.previous.title }}</a>
+  </div>
+  {% endif %}
+
+  {% if page.next.url %}
+  <div class="nav-next">
+    <a href="{{ site.baseurl }}{{ page.next.url }}" rel="prev">{{ page.next.title }} <span class="meta-nav">→</span></a>
+  </div>
+  {% endif %}
+
+</div>

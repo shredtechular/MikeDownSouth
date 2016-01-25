@@ -1,0 +1,21 @@
+  <div id="header">
+    <div id="masthead">
+      <div id="branding" role="banner">
+        <h1 id="site-title">
+          <span><a href="{{site.baseurl}}/" title="Mike Down South" rel="home">{{site.title}}</a></span>
+        </h1>
+        <div id="site-description">{{site.sub_title}}</div>
+        <img src="{{site.baseurl}}/images/path.jpg" width="940" height="198" alt="" />
+      </div><!-- #branding -->
+
+      <div id="access" role="navigation">
+        <!-- skip-Nav -->
+        <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+        <div class="menu">
+          <ul><li class="{% if page.url == "/index.html" %}current_page_item{% else %}page_item{% endif %}"><a href="{{site.baseurl}}/">Home</a></li>
+              <li class="page_item"><a href="{{site.baseurl}}/about/">About</a></li>
+          </ul>
+        </div>
+      </div><!-- #access -->
+    </div><!-- #masthead -->
+  </div><!-- #header -->

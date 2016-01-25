@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="post type-post status-publish format-standard hentry">
+  <h1 class="entry-title">{{page.breadcrumb}}</h1>
+  <div class="entry-content">
+    {{content}}
+  </div>
+</div>
+
+{% assign post = page %}
+
+{% comment %}<!-- List comments for Blog -->{% endcomment %}
+{% include comments.html %}
