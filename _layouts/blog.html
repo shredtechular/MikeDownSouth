@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+{% comment %}<!-- Single Blog Post Pagination -->{% endcomment %}
+{% include blog-single-pagination.html location="above" %}
+
+<!-- content -->
+<div class="post type-post status-publish format-standard hentry">
+  <h1 class="entry-title">{{page.breadcrumb}}</h1>
+  <div class="entry-meta">
+    <span class="meta-prep meta-prep-author">Posted on</span>
+    <a href="{{site.baseurl}}{{page.url}}" title="{{ page.date | date: '%B %d, %Y' }}" rel="bookmark"><span class="entry-date">{{ page.date | date: '%B %d, %Y' }}</span></a> <span class="meta-sep">by</span>
+    <span class="author vcard"><a class="url fn n" href="{{site.baseurl}}/author/admin/" title="View all posts by {{page.author}}">{{page.author}}</a></span>
+  </div>
+  <div class="entry-content">
+    {{content}}
+  </div>
+
+<!-- blog meta information line -->
+  <div class="entry-utility">
+    This entry was posted in 
+    <a href="{{ site.baseurl }}/category/{{page.category}}" rel="category tag">{{page.category}}</a> 
+    and tagged 
+    {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}/tag/{{ tag | replace: ' ', '-' }}/" rel="tag">{{ tag }}</a>{% if forloop.last %}.{% else %},{% endif %}
+    {% endfor %}
+    Bookmark the <a href="{{ site.baseurl }}{{ page.url }}" title="Permalink to {{page.breadcrumb}}" rel="bookmark">permalink</a>               
+  </div>
+
+</div>
+
+{% comment %}<!-- Single Blog Post Pagination -->{% endcomment %}
+{% include blog-single-pagination.html location="below" %}
+
+{% assign post = page %}
+
+{% comment %}<!-- List comments for Blog -->{% endcomment %}
+{% include comments.html %}

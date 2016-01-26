@@ -1,0 +1,97 @@
+{% comment %}<!-- Get Number of comments returned as "comment-counter" -->{% endcomment %}
+{% include get-num-comments.html %}
+
+{% if comment-counter > 0 %}
+<div id="comments">
+  <h3 id="comments-title">{{comment-counter}} Response{% if comment-counter > 1%}s{% endif %} to <em>{{page.breadcrumb}}</em></h3>
+  <ol class="commentlist">
+
+  {% for comment in site.data.comments.sessions %}
+    {% if comment.path == page.url %}
+
+    <li class="comment thread-even depth-{% if comment.depth > 1 %}{{ comment.depth }}{% else %}1{% endif %}" id="li-comment-{{ comment._id }}">
+      <div id="comment-{{ comment._id }}">
+        <div class="comment-author vcard">
+          <img src="{% if comment.avatar %}{{ comment.avatar }}{% else %}http://2.gravatar.com/avatar/2de25f7fc220cc4996f4a420bbb93fda?s=40&amp;d=mm&amp;r=pg{% endif %}" alt="{{ comment.name }}" class="avatar avatar-40 photo" height="40" width="40">
+          {% if comment.url %}
+            <cite class="fn"><a href="{{ comment.url }}" class="commenter">{{ comment.name }}</a></cite>
+          {% else %}
+            <cite class="fn">{{ comment.name }}</cite>  
+          {% endif %}
+          <span class="says">says:</span>
+        </div>
+        <!-- .comment-author .vcard -->
+        <div class="comment-meta commentmetadata"><a href="{{ site.baseurl }}{{ page.url }}#comment-{{ comment._id }}">
+          {{ comment.created }}</a> 
+        </div>
+        <!-- .comment-meta .commentmetadata -->
+        <div class="comment-body">{{ comment.comment }}</div>
+      </div>
+      <!-- #comment-##  -->
+
+      {% if comment.child_id %}
+        <ol class="children">
+          <li class="comment thread-even depth-{% if comment.child_depth %}{{ comment.child_depth }}{% else %}1{% endif %}" id="li-comment-{{ comment.child_id }}">
+            <div id="comment-{{ comment.child_id }}">
+              <div class="comment-author vcard">
+                <img src="{% if comment.child_avatar %}{{ comment.child_avatar }}{% else %}http://2.gravatar.com/avatar/2de25f7fc220cc4996f4a420bbb93fda?s=40&amp;d=mm&amp;r=pg{% endif %}" alt="{{ comment.child_name }}" class="avatar avatar-40 photo" height="40" width="40">
+                {% if comment.child_url %}
+                  <a href="{{ comment.child_url }}" class="commenter"><cite class="fn">{{ comment.child_name }}</cite></a>
+                {% else %}
+                  <cite class="fn">{{ comment.child_name }}</cite>  
+                {% endif %}
+                <span class="says">says:</span>
+              </div>
+              <!-- .comment-author .vcard -->
+              <div class="comment-meta commentmetadata"><a href="{{ site.baseurl }}{{ page.url }}#comment-{{ comment.child_id }}">
+                {{ comment.child_created }}</a> 
+              </div>
+              <!-- .comment-meta .commentmetadata -->
+              <div class="comment-body">{{ comment.child_comment }}</div>
+            </div>
+
+            {% if comment.child2_id %}
+              <ol class="children">
+                <li class="comment thread-even depth-{% if comment.child2_depth > 1 %}{{ comment.child2_depth }}{% else %}1{% endif %}" id="li-comment-{{ comment.child2_id }}">
+                  <div id="comment-{{ comment.child2_id }}">
+                    <div class="comment-author vcard">
+                      <img src="{% if comment.child2_avatar %}{{ comment.child2_avatar }}{% else %}http://2.gravatar.com/avatar/2de25f7fc220cc4996f4a420bbb93fda?s=40&amp;d=mm&amp;r=pg{% endif %}" alt="{{ comment.child2_name }}" class="avatar avatar-40 photo" height="40" width="40">
+                      {% if comment.child2_url %}
+                        <a href="{{ comment.child2_url }}" class="commenter"><cite class="fn">{{ comment.child2_name }}</cite></a>
+                      {% else %}
+                        <cite class="fn">{{ comment.child2_name }}</cite>  
+                      {% endif %}
+                      <span class="says">says:</span>
+                    </div>
+                    <!-- .comment-author .vcard -->
+                    <div class="comment-meta commentmetadata"><a href="{{ site.baseurl }}{{ page.url }}#comment-{{ comment.child2_id }}">
+                      {{ comment.child2_created }}</a> 
+                    </div>
+                    <!-- .comment-meta .commentmetadata -->
+                    <div class="comment-body">{{ comment.child2_comment }}</div>
+                  </div>
+                </li>
+                <!-- #comment-## -->
+              </ol>
+            {% endif %}
+
+          </li>
+          <!-- #comment-## -->
+        </ol>
+      {% endif %}
+
+    </li>
+    <!-- #comment-## -->
+
+    {% endif %}
+  {% endfor %}
+
+  </ol>
+    <!-- #commentlist -->
+</div>
+<!-- #comments -->
+{% endif %}
+
+<div id="respond" class="comment-respond">
+  <h3 id="reply-title" class="comment-reply-title">Comments are closed for this post</h3>
+</div>
