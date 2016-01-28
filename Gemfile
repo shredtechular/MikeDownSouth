@@ -8,4 +8,4 @@ gem 'github-pages', versions['github-pages']
 gem 'rdiscount'
 gem 'liquid'
 gem 'jekyll'
-
+gem 'html-proofer'
