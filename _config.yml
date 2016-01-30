@@ -4,7 +4,7 @@ title: "Mike Down South"
 sub_title: "Wandering around South America"
 
 permalink: /:year/:month/:day/:title/
-baseurl: http://shredtechular.github.io/
+baseurl: http://shredtechular.github.io
 include: ['_pages']
 markdown: rdiscount
 paginate: 5
