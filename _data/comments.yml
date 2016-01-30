@@ -400,12 +400,12 @@
       created: "February 15, 2011 at 11:02 pm"
       name: "Al"
       path: "/2011/02/15/cusco-kind-of-sucks/"
-      child2_depth: 3
+      depth: 3
     -
       _id: 137
       comment: "Sam’s Club is way better anyhow"
       created: "March 21, 2011 at 6:22 pm"
-      name: "Al"
+      name: "John"
       path: "/2011/02/15/cusco-kind-of-sucks/"
     -
       _id: 98
@@ -575,11 +575,13 @@
       name: "Court"
       path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
       child_id: 73
-      child_comment: "It is my humble gift to the people of South America"
-      child_created: "January 13, 2011 at 8:54 pm"
-      child_name: "Mike"
-      child_path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
-      child_depth: 2
+    -
+      _id: 73
+      comment: "It is my humble gift to the people of South America"
+      created: "January 13, 2011 at 8:54 pm"
+      name: "Mike"
+      path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
+      depth: 2
     -
       _id: 85
       comment: "I can’t wait to see what happens to that guy when he comes to the US and says that about a girl. A slap in the face is highly probable."

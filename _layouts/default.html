@@ -140,7 +140,7 @@
       {% assign sorted_tags = (site.tags | sort:0) %}
 
       {% for tag in sorted_tags %}
-        <a href="{{ site.baseurl }}/tag/{{ tag | first | slugize }}/" title="{{ tag[1].size }} topics" style="font-size: {{ tag | last | size | times: 90 | divided_by: site.tags.size | plus: 7 }}pt">{{ tag | first }}</a>
+        <a href="{{ site.baseurl }}/tag/{{ tag | first | slugize | replace: ' ', '-' }}/" title="{{ tag[1].size }} topics" style="font-size: {{ tag | last | size | times: 90 | divided_by: site.tags.size | plus: 7 }}pt">{{ tag | first }}</a>
       {% endfor %}
 
       </div>
