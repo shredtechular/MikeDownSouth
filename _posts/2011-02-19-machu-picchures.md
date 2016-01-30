@@ -12,7 +12,7 @@ While I was in Cusco, I decided to take a day trip to Machu Picchu. It’s an an
 
 Arriving in Aguas Calientes, the city below Machu Picchu.
 
-[![IMG_4296]({{ site.baseurl }}/images/2011/02/IMG_4296_thumb.jpg)]({{ site.basurl }}/images/2011/02/IMG_4296.jpg)
+[![IMG_4296]({{ site.baseurl }}/images/2011/02/IMG_4296_thumb1.jpg)]({{ site.basurl }}/images/2011/02/IMG_42961.jpg)
 
 They charge you to go to the bathroom at Machu Picchu, which wasn’t all that new for me, but the interesting part was that they actually give you an entrance ticket. Luckily, it wasn’t the kind of thing where they had patrols inside to verify proof of payment.
 
