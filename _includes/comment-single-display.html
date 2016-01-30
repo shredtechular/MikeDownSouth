@@ -1,0 +1,20 @@
+{% assign item = include.comment %}
+
+          <li class="comment thread-even depth-{% if item.depth %}{{ item.depth }}{% else %}1{% endif %}" id="li-comment-{{ item.id }}">
+            <div id="comment-{{ item.id }}">
+              <div class="comment-author vcard">
+                <img src="{% if item.avatar %}{{ item.avatar }}{% else %}http://2.gravatar.com/avatar/2de25f7fc220cc4996f4a420bbb93fda?s=40&amp;d=mm&amp;r=pg{% endif %}" alt="{{ item.name }}" class="avatar avatar-40 photo" height="40" width="40">
+                {% if item.url %}
+                  <a href="{{ item.url }}" class="commenter"><cite class="fn">{{ item.name }}</cite></a>
+                {% else %}
+                  <cite class="fn">{{ item.name }}</cite>  
+                {% endif %}
+                <span class="says">says:</span>
+              </div>
+              <!-- .comment-author .vcard -->
+              <div class="comment-meta commentmetadata"><a href="{{ site.baseurl }}{{ page.url }}#comment-{{ item.id }}">
+                {{ item.created }}</a> 
+              </div>
+              <!-- .comment-meta .commentmetadata -->
+              <div class="comment-body">{{ item.comment }}</div>
+            </div>

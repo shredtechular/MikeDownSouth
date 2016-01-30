@@ -1,99 +1,100 @@
 ---
   sessions:
     -
-      _id: "299"
+      _id: 299
       comment: "<p>Did you eat hamster meat in the US or in South America? If it is in the US, where can I get some? I would love to talk to you further about this topic!!</p><p>Jenny</p>"
       created: "June 14, 2012 at 10:56 am"
       name: "Jenny"
       path: "/about/"
     -
-      _id: "263"
+      _id: 263
       comment: "<p>Michael</p><p>Welcome back, again! Let's do dinner. Will be in touch.</p><p>Love you<br/>AR</p>"
       created: "October 20, 2011 at 9:01 am"
       name: "Renee Lautmann"
       path: "/2011/10/07/reintegration/"
     -
-      _id: "220"
+      _id: 220
       comment: "Good job on taking a picture of a page that didn’t reveal how dirty your mind is. This list would actually be fantastic if I was nearly as awesome as you and able to take a year off to backpack across South America, so thank you from everyone cooler than me (and thanks for making me jealous)."
       created: "August 3, 2011 at 6:50 pm"
       name: "Rachel"
       path: "/2011/08/01/pretending-i-learned-something-backpacker-packing-list/"
     -
-      _id: "221"
+      _id: 221
       comment: "So proud of you – you actually <strong><em>were</em></strong> paying attention. My ziplock addiction wore off on you."
       created: "August 3, 2011 at 8:08 pm"
       name: "Mom"
       path: "/2011/08/01/pretending-i-learned-something-backpacker-packing-list/"
     -
-      _id: "222"
+      _id: 222
       comment: "I don’t really have anything to add, but I figured I would round out the family. Can’t wait to have you home for a while."
       created: "August 4, 2011 at 9:08 am"
       name: "Dad"
       path: "/2011/08/01/pretending-i-learned-something-backpacker-packing-list/"
     -
-      _id: "229"
+      _id: 229
       comment: "Ditto."
       created: "August 10, 2011 at 10:51 pm"
       name: "Al"
       path: "/2011/08/01/pretending-i-learned-something-backpacker-packing-list/"
     -
-      _id: "204"
-      comment_count: 2
+      _id: 204
       comment: "Have you tried standing up one of them to see what happens?"
       created: "July 12, 2011 at 10:08 am"
       name: "McKenzie"
       path: "/2011/07/10/colombian-girls-are-the-most-confusing-girls-to-date/"
-      child_id: "206"
-      child_comment: "Ha, not yet."
-      child_created: "July 12, 2011 at 11:06 pm "
-      child_name: "Mike"
-      child_path: "/2011/07/10/colombian-girls-are-the-most-confusing-girls-to-date/"
-      child_depth: "2"
+      child_id: 206
     -
-      _id: "227"
+      _id: 206
+      comment: "Ha, not yet."
+      created: "July 12, 2011 at 11:06 pm "
+      name: "Mike"
+      path: "/2011/07/10/colombian-girls-are-the-most-confusing-girls-to-date/"
+      depth: "2"
+    -
+      _id: 227
       comment: "Medellin is the worst for flakey girls and many girls have a princessy attitude when you do happen to take them out – I usually avoid Medellin and Bogota, there are muchh better pickings in other places-…And sometimes there is some kind of weird ritual in parts of colombia(barranquilla, cali) like she really likes you so she is making herself supeerr pretty for you and taking forever say and extra 45 minutes to 3 hours, no joke (right and you sitting there fuming waiting for something that seems like its not going to happen). I think I figured out a few ways to prevent this..first off make her as excited to see you as possible..we’re not negotiating contracts here you’re trying te pique her interest..flirt, joke..be mysterious, maybe don’t show up once yourself ;) hints that other people(girls) are inviting you out==all of these do wonders for increasing interest. I usually pick a place near where I am as kind of the pre meeting place or a place near a ciber so I have something else to do. Oh and if its the first time you are meeting a girl you want ZERO pressure on her..no hun were just hanging out drinking a little of colombias finest coffee-If you have a trip to the zoo a flight to cartagena planned she might feel alot of pressure and finally decide to duck out. Of course after the coffee you might suggest the zoo and then you are low pressure AND spontaneous. .. And one last thing tip that took me along time to figure out…whats the right thing to do if she flakes on you? If you get angry usually its the nail in the coffin of that relationship..So what I do is call her later and apologize for not showing up…that will alleviate her guilt for standing you up and not make you look like a loser waiting around for nothing. Then if you still want to make another date its very likely she will show up."
       created: "August 9, 2011 at 11:00 am"
       name: "Sam"
       path: "/2011/07/10/colombian-girls-are-the-most-confusing-girls-to-date/"
     -
-      _id: "295"
+      _id: 295
       comment: "You must have not tried dating a Peruvian if you think that is confusing!!"
       created: "April 19, 2012 at 11:55 am"
       name: "Martin"
       path: "/2011/07/10/colombian-girls-are-the-most-confusing-girls-to-date/"
     -
-      _id: "187"
+      _id: 187
       comment: "YAY!!!! This makes me sooooo incredibly happy…i will also be in New York (most likely) dropping off my brother for COLLEGE, in August!! AHHHHHHHHH"
       created: "June 8, 2011 at 12:50 pm"
       name: "Jovanna Quintanar"
       path: "/2011/06/07/im-a-comin-home/"
       avatar: "http://0.gravatar.com/avatar/03db7e0be4acf111ca74dea46b9cfe5d?s=40&d=mm&r=pg"
     -
-      _id: "190"
+      _id: 190
       comment: "so glad you’re coming back to nyc!"
       created: "June 20, 2011 at 11:58 pm"
       name: "McKenzie"
       path: "/2011/06/07/im-a-comin-home/"
     -
-      _id: "191"
+      _id: 191
       comment: "<p>Hi M</p><p>Missed this posting since we were in Turkey for 12 days. It was amazing! Look forward to seeing you. Good news that you found an apartment.</p><p>Love,<br/>Aunt R"
       created: "June 8, 2011 at 12:50 pm"
       name: "Aunt Renee Lautmann"
       path: "/2011/06/07/im-a-comin-home/"
     -
-      _id: "180"
+      _id: 180
       comment: "when ARE you going to write a book?"
       created: "June 5, 2011 at 5:18 pm"
       name: "McKenzie"
       path: "/2011/06/05/the-five-people-you-meet-in-hostels/"
     -
-      _id: "182"
+      _id: 182
       comment: "this is so good!! you should write the book…"
       created: "June 5, 2011 at 6:11 pm"
       name: "Agus"
       path: "/2011/06/05/the-five-people-you-meet-in-hostels/"
     -
-      _id: "183"
+      _id: 183
       comment: "when ARE you going to write a book?"
       created: "June 6, 2011 at 1:22 am"
       name: "Leah Kaminsky"
@@ -101,588 +102,602 @@
       path: "/2011/06/05/the-five-people-you-meet-in-hostels/"
       avatar: "http://2.gravatar.com/avatar/e9a33e73c95043bf7bf78ed2bae7f0d1?s=40&d=mm&r=pg"
     -
-      _id: "184"
+      _id: 184
       comment: "Great post, Mike! By your own logic, you fit one of these archetypes too :] So who are you? I’d guess, but Bolivia’s Got Talent is on!"
       created: "June 7, 2011 at 12:53 am"
       name: "Mike W"
       path: "/2011/06/05/the-five-people-you-meet-in-hostels/"
     -
-      _id: "210"
+      _id: 210
       comment: "I want to be the old person. I mean I am old, but old in a hostel. I guess I need to finish learning how to knit first."
       created: "July 15, 2011 at 2:37 am"
       name: "Carolyn Wakefield"
       path: "/2011/06/05/the-five-people-you-meet-in-hostels/"
     -
-      _id: "165"
+      _id: 165
       comment: "That apartment is daaaaaaaaaaaaaaaaaaaan"
       created: "May 26, 2011 at 4:00 pm"
       name: "Jeet"
       path: "/2011/05/26/the-fancypants-colombia-apartment/"
     -
-      _id: "166"
+      _id: 166
       comment: "I wish I could “like” Jeet’s comment."
       created: "May 26, 2011 at 8:34 pm"
       name: "Al"
       path: "/2011/05/26/the-fancypants-colombia-apartment/"
     -
-      _id: "167"
-      comment_count: 2
+      _id: 167
       comment: "<p>“Unlike the bathroom I had in Buenos Aires, in this one, you can’t flush toilet paper (which is true of almost every bathroom I’ve been to in South America.”</p><p>I don’t understand! If you can flush poo why can’t you flush toilet paper?? What if you ate toilet paper? Would you be allowed to flush what you excreted?</p>"
       created: "May 28, 2011 at 3:18 am"
       name: "Zuzu"
       path: "/2011/05/26/the-fancypants-colombia-apartment/"
-      child_id: "168"
-      child_comment: "@Zuzu – Yeah, that was my first thought, too, but I can tell you that being in many a hostel with clogged toilets, it only seems to happen when people flush toilet paper. The eating toilet paper experiment is interesting, but I’d be afraid that if I tested it out, South America would implode from the devastating paradox."
-      child_created: "May 28, 2011 at 12:08 pm"
-      child_name: "Mike"
-      child_path: "/2011/05/26/the-fancypants-colombia-apartment/"
-      child_depth: "2"
+      child_id: 168
     -
-      _id: "173"
+      _id: 168
+      comment: "@Zuzu – Yeah, that was my first thought, too, but I can tell you that being in many a hostel with clogged toilets, it only seems to happen when people flush toilet paper. The eating toilet paper experiment is interesting, but I’d be afraid that if I tested it out, South America would implode from the devastating paradox."
+      created: "May 28, 2011 at 12:08 pm"
+      name: "Mike"
+      path: "/2011/05/26/the-fancypants-colombia-apartment/"
+      depth: "2"
+    -
+      _id: 173
       comment: "woooowww lookin good!"
       created: "May 28, 2011 at 10:10 pm"
       name: "McKenzie"
       path: "/2011/05/26/the-fancypants-colombia-apartment/"
     -
-      _id: "163"
+      _id: 163
       comment: "The movies AND the weather? That’s a lot of work!"
       created: "May 14, 2011 at 12:14 pm"
       name: "Andrew Murley"
       url: "http://www.andrewmurley.com"
       path: "/2011/05/14/my-favorite-juan-quotes/"
     -
-      _id: "3585"
+      _id: 3585
       comment: "Wow, sounds hilarous. Enjoy reading your blod. I did a similar trip last year. Stayed in Cordoba for only 2 days, but it had the most beautiful girls I have ever seen in my life. So interesting to read about smb going to the same place as you did."
       created: "November 30, 2014 at 1:02 am"
       name: "Mat"
       path: "/2011/05/14/my-favorite-juan-quotes/"
     -
-      _id: "161"
+      _id: 161
       comment: "<p>Were Che’s descendants at the Arizona family reunion??? And your great-grandfather’s name on your mom’s side is Ernest!!!!! Will there a revolution if/when you return to Pelham??</p><p>Love u xoxo<br/>AR</p>"
       created: "May 11, 2011 at 10:49 am"
       name: "Aunt Renee Lautmann"
       path: "/2011/05/10/cordoba-in-pictures/"
     -
-      _id: "172"
-      comment_count: 3
+      _id: 172
       comment: "wait, so what was the pretty women in elevator movie?"
       created: "May 28, 2011 at 9:59 pm"
       name: "McKenzie"
       path: "/2011/05/03/lets-talk-movies/"
-      child_id: "174"
-      child_comment: "@ McK – Haha, no there were no pretty women in the elevator. The guy in the elevator *liked* only pretty women. It was Shallow Hal."
-      child_created: "May 28, 2011 at 10:27 pm"
-      child_name: "Mike"
-      child_path: "/2011/05/03/lets-talk-movies/"
-      child_depth: 2
-      child2_id: "181"
-      child2_comment: "oh wow, her favorite movie was shallow hal : /"
-      child2_created: "June 5, 2011 at 5:19 pm"
-      child2_name: "McKenzie"
-      child2_path: "/2011/05/03/lets-talk-movies/"
-      child2_depth: 3
+      child_id: 174
     -
-      _id: "147"
-      comment_count: 2
+      _id: 174
+      comment: "@ McK – Haha, no there were no pretty women in the elevator. The guy in the elevator *liked* only pretty women. It was Shallow Hal."
+      created: "May 28, 2011 at 10:27 pm"
+      name: "Mike"
+      path: "/2011/05/03/lets-talk-movies/"
+      depth: 2
+      child2_id: 181
+    -
+      _id: 181
+      comment: "oh wow, her favorite movie was shallow hal : /"
+      created: "June 5, 2011 at 5:19 pm"
+      name: "McKenzie"
+      path: "/2011/05/03/lets-talk-movies/"
+      depth: 3
+    -
+      _id: 147
       comment: "Mike, Remi’s is in New Rochelle.."
       created: "April 14, 2011 at 5:45 pm"
       name: "John"
       path: "/2011/04/14/my-coming-home-fantasies/"
-      child_id: "149"
-      child_comment: "Oh wow it is. All these years I thought I was eating in Pelham! The sandwiches are no less delicious, though."
-      child_created: "April 14, 2011 at 7:59 pm"
-      child_name: "Mike"
-      child_path: "/2011/04/14/my-coming-home-fantasies/"
-      child_depth: 2
+      child_id: 149
     -
-      _id: "148"
-      comment_count: 3
+      _id: 149
+      comment: "Oh wow it is. All these years I thought I was eating in Pelham! The sandwiches are no less delicious, though."
+      created: "April 14, 2011 at 7:59 pm"
+      name: "Mike"
+      path: "/2011/04/14/my-coming-home-fantasies/"
+      depth: 2
+    -
+      _id: 148
       comment: "Bad news: Hulu has commercials. It’s going to take you longer than 54.2 hours."
       created: "April 14, 2011 at 7:54 pm"
       name: "Branton"
       path: "/2011/04/14/my-coming-home-fantasies/"
-      child_id: "150"
-      child_comment: "Ha, yeah, I’m finding that. It’s also contributing to my phone envy. Lots of Android ads. I wonder if ad targeting’s gotten sophisticated enough that the ad software is reading my blog to show me tempting ads."
-      child_created: "April 14, 2011 at 8:03 pm"
-      child_name: "Mike"
-      child_path: "/2011/04/14/my-coming-home-fantasies/"
-      child_depth: 2
-      child2_id: "209"
-      child2_comment: "yes. It has."
-      child2_created: "July 15, 2011 at 2:33 am"
-      child2_name: "Carolyn Wakefield"
-      child2_path: "/2011/04/14/my-coming-home-fantasies/"
-      child2_depth: 3
+      child_id: 150
     -
-      _id: "171"
+      _id: 150
+      comment: "Ha, yeah, I’m finding that. It’s also contributing to my phone envy. Lots of Android ads. I wonder if ad targeting’s gotten sophisticated enough that the ad software is reading my blog to show me tempting ads."
+      created: "April 14, 2011 at 8:03 pm"
+      name: "Mike"
+      path: "/2011/04/14/my-coming-home-fantasies/"
+      depth: 2
+      child2_id: 209
+    -
+      _id: 209
+      comment: "yes. It has."
+      created: "July 15, 2011 at 2:33 am"
+      name: "Carolyn Wakefield"
+      path: "/2011/04/14/my-coming-home-fantasies/"
+      depth: 3
+    -
+      _id: 171
       comment: "We just got the xoom with android, pretty cool, asher is loving it.<br/>And Mike your jokes are funny to me at least! i just laughed to tears reading this post."
       created: "May 28, 2011 at 9:47 pm"
       name: "McKenzie"
       path: "/2011/04/14/my-coming-home-fantasies/"
     -
-      _id: "170"
+      _id: 170
       comment: "When I was in Singapore for 10 days I decided I would never go anywhere that foreign again for longer than a week without a kitchen. Its so nice to make your own homey comfort food. for me that’s pasta : ) and definitely with jon stewart."
       created: "May 28, 2011 at 9:43 pm"
       name: "McKenzie"
       path: "/2011/04/10/adventures-in-domesticity/"
     -
-      _id: "145"
+      _id: 145
       comment: "<p>Your breakfast buffet reminds me of the best breakfast buffet in the world in Rio de Janiero. The ambiance was amazing—–we sat right near the swimming pool . The buffet had every kind of fruit imaginable and pastries and other breakfast fare that were phenomenal. It all tasted so much better in the warm, breezy South American air.</p><p>It is great that your tradition with Jeet stayed alive in BA</p><p>Love<br/>AR</p>"
       created: "April 7, 2011 at 10:36 am"
       name: "Aunt Renee Lautmann"
       path: "/2011/04/06/taking-a-week-off/"
     -
-      _id: "138"
+      _id: 138
       comment: "My Argentinian friend always calls the Yankees, the “jankees.”"
       created: "March 27, 2011 at 2:17 pm"
       name: "John"
       path: "/2011/03/25/argentina-is-not-part-of-south-america/"
     -
-      _id: "140"
-      comment_count: 2
+      _id: 140
       comment: "<p>Hi Michael</p><p>One of these days, I will return to Buenos Aires. Walking on the streets was like being on the Champs Elysees except way cheaper and French was not spoken. I am surprised that you find it expensive because the clothing, taxis and food were so cheap compared to the US.</p><p>Have been following you but this is the first place I have been to so I thought I would write. Enjoy!</p><p>Love<br/>Aunt Renee</p>"
       created: "March 28, 2011 at 6:05 pm"
       name: "Aunt Renee Lautmann"
       path: "/2011/03/25/argentina-is-not-part-of-south-america/"
-      child_id: "141"
-      child_comment: "You were here a few years ago, right? Inflation’s super high in Argentina lately (like 8-9% / year), so prices are going up fast. I don’t understand why the USD conversion doesn’t correct this, but for whatever reason it doesn’t or the peso has gotten relatively stronger or something. I’ve talked to Americans that were here 2-3 years ago that say that prices (in dollars) have doubled or tripled since they were last here."
-      child_created: "March 29, 2011 at 10:21 am"
-      child_name: "Mike"
-      child_path: "/2011/03/25/argentina-is-not-part-of-south-america/"
-      child_depth: 2
+      child_id: 141
     -
-      _id: "127"
+      _id: 141
+      comment: "You were here a few years ago, right? Inflation’s super high in Argentina lately (like 8-9% / year), so prices are going up fast. I don’t understand why the USD conversion doesn’t correct this, but for whatever reason it doesn’t or the peso has gotten relatively stronger or something. I’ve talked to Americans that were here 2-3 years ago that say that prices (in dollars) have doubled or tripled since they were last here."
+      created: "March 29, 2011 at 10:21 am"
+      name: "Mike"
+      path: "/2011/03/25/argentina-is-not-part-of-south-america/"
+      depth: 2
+    -
+      _id: 127
       comment: "I enjoyed this post! (Though the y axis to the graph is somewhat deceptive)"
       created: "March 17, 2011 at 1:20 pm"
       name: "Al"
       path: "/2011/03/17/the-3-month-mark/"
     -
-      _id: "128"
+      _id: 128
       comment: "I agree with Al. I definitely had to do a double take on the graph as well."
       created: "March 17, 2011 at 1:48 pm"
       name: "Joslyn Rosbrook"
       path: "/2011/03/17/the-3-month-mark/"
       avatar: "http://1.gravatar.com/avatar/d9c41acce9db7e034cf25ef0aa3082f7?s=40&d=mm&r=pg"
     -
-      _id: "129"
+      _id: 129
       comment: "I liked this post a lot Mike. Provided some big picture insight that I’d been missing. Glad you’re having fun and the trip is going well. I miss you, and your sense of humor, a lot. People are too serious! Also….SPRING BREAK!"
       created: "March 17, 2011 at 2:51 pm"
       name: "Sam"
       path: "/2011/03/17/the-3-month-mark/"
     -
-      _id: "131"
+      _id: 131
       comment: "<p>I enjoyed this post too!</p><p>I think your trickery goals might be a little lofty bc of your accent, but gl!</p>"
       created: "March 17, 2011 at 6:41 pm"
       name: "Jeet"
       path: "/2011/03/17/the-3-month-mark/"
     -
-      _id: "133"
+      _id: 133
       comment: "<p>Michael, despite the critics of your graph, I got it. and I’m not even a distant relative to any math people. Unless you count Lillian who is progressing nicely in science and math. She just keeps taking higher and higher courses in calculus chemistry and physics. Plus she rock climbs and does a long distance swimming class and is studying piano.<br/>But I digress. However, your Mother would say I am probably the worst offender in this department too: going on and on about my children.</p><p>But this is why I am really leaving a comment:<br/>a map. I have been lamely trying to chart your course on google earth, but am having not as much success with the visual as I would like. Mainly because I am too lazy to type in all of the names of the places you mention.</p><p>So, the next time you get bored, can you please post a map with all of the places you have been, in order, starting with Seattle? I know you have the skills cause I saw those very clever number things you did with the driving schools. And if you can create such fabulous graphs, I am certain that my request is not too out of line.</p><p>Of course, if you would rather not do this, then just ignore me. I am used to that sort of thing when I make ridiculously high maintenance requests.</p><p>And now, I am so vicariously excited because your parents are off visiting Rachel!</p>"
       created: "March 19, 2011 at 10:54 pm"
       name: "Carolyn Wakefield"
       path: "/2011/03/17/the-3-month-mark/"
     -
-      _id: "134"
-      comment_count: 2
+      _id: 134
       comment: "<p>ok. so I typed in all the names of places on google earth that you have mentioned. What, with predictive text and all, it wasn’t that hard. so you can breathe a sigh of relief. You are officially off the hook for that map request thing. But one answer always leads me to another question. Like, “How many miles is it to ……..from…….? and how long did it take to get there? and what mode of transportation did you use?</p><p>I just got an e-mail from your Mom in Quito and my reply consisted mainly of questions that her e-mail generated for my insatiable quest for answers.</p><p>oh no! perhaps I have committed the worst faux pas ever. Some people do not like the internet to know when they are traveling. How do I delete these references?</p>"
       created: "March 19, 2011 at 11:14 pm"
       name: "Carolyn Wakefield"
       path: "/2011/03/17/the-3-month-mark/"
-      child_id: "135"
-      child_comment: "@Carolyn – The map is a cool suggestion. There are tools that would let me do something like that, so I’ll look into it when I get a chance. I don’t know how I’d represent modes of transportation, but all my travel has been on long distance buses with the exception of Seattle -> Quito and the trip to the Galapagos, which were both plane. I don’t think the mention of my parents traveling is a problem. I imagine that not many of their would-be evildoers are very close followers of my blog. ; )"
-      child_created: "March 20, 2011 at 9:41 am"
-      child_name: "Mike"
-      child_path: "/2011/03/17/the-3-month-mark/"
-      child_depth: 2
+      child_id: 135
     -
-      _id: "136"
+      _id: 135
+      comment: "@Carolyn – The map is a cool suggestion. There are tools that would let me do something like that, so I’ll look into it when I get a chance. I don’t know how I’d represent modes of transportation, but all my travel has been on long distance buses with the exception of Seattle -> Quito and the trip to the Galapagos, which were both plane. I don’t think the mention of my parents traveling is a problem. I imagine that not many of their would-be evildoers are very close followers of my blog. ; )"
+      created: "March 20, 2011 at 9:41 am"
+      name: "Mike"
+      path: "/2011/03/17/the-3-month-mark/"
+      depth: 2
+    -
+      _id: 136
       comment: "Glad to hear that! I will sleep better tonight."
       created: "March 20, 2011 at 7:59 pm "
       name: "Carolyn Wakefield"
       path: "/2011/03/17/the-3-month-mark/"
     -
-      _id: "169"
+      _id: 169
       comment: "I love graphs!!!<br/>So excited to hear you’re thinking about coming back to nyc!"
       created: "May 28, 2011 at 9:31 pm"
       name: "McKenzie"
       path: "/2011/03/17/the-3-month-mark/"
     -
-      _id: "125"
+      _id: 125
       comment: "There’s something about spraying kids at close proximity with aerosol cans that doesn’t sound safe."
       created: "March 16, 2011 at 7:09 pm"
       name: "Al"
       path: "/2011/03/16/being-terrorized-by-small-children-for-carnivale/"
     -
-      _id: "126"
+      _id: 126
       comment: "I played carneval with the kids in my class last week with lots of water and spray foam. That was the first day of carneval. On the second day of carneval we painted faces during our activity time and my friend Liz helped. As we were painting faces, the kids went to her and said, “¡¿Quiere jugar carneval?!” She, confused said, “¡Si!” My students got very excited and ran to their backpacks to whip out the foam, but I was screaming, “No! Liz!!! You don’t know what you’re saying!” and explained what she had agreed to. Saved from the foam and water she was."
       created: "March 16, 2011 at 9:47 pm"
       name: "Tu Hermanita"
       path: "/2011/03/16/being-terrorized-by-small-children-for-carnivale/"
     -
-      _id: "122"
+      _id: 122
       comment: "wow that looks beautiful"
       created: "March 13, 2011 at 9:51 am"
       name: "McKenzie"
       path: "/2011/03/12/lake-titicaca/"
     -
-      _id: "119"
+      _id: 119
       comment: "<p>They’re all owned by the same umbrella corporation.</p><p>You’ll also notice that they each teach you how to drive on different cars. #14 teaches you how to negotiate the streets of Peru in a Formula 1 race car. #10 is specifically for those aspiring to race on Daytona.</p>"
       created: "March 2, 2011 at 4:04 pm"
       name: "Al"
       path: "/2011/03/02/this-road-must-be-really-hard-to-drive-on/"
     -
-      _id: "116"
+      _id: 116
       comment: "Actually, I have a feeling that “Nos disfrutamos” means “We pleasured each other.” So it was even more of a hot expression than you thought."
       created: "February 26, 2011 at 1:22 pm"
       name: "Your Hermanita"
       path: "/2011/02/26/learning-spanish-in-arequipa/"
     -
-      _id: "117"
+      _id: 117
       comment: "<p>They’re all owned by the same umbrella corporation.</p><p>You’ll also notice that they each teach you how to drive on different cars. #14 teaches you how to negotiate the streets of Peru in a Formula 1 race car. #10 is specifically for those aspiring to race on Daytona.</p>"
       created: "February 26, 2011 at 5:40 pm"
       name: "Al"
       path: "/2011/02/26/learning-spanish-in-arequipa/"
     -
-      _id: "115"
+      _id: 115
       comment: "In the picture with your face, you look like you’re about to say, “Tuuube socks?”"
       created: "February 22, 2011 at 4:01 pm"
       name: "Al"
       path: "/2011/02/22/moray-the-weird-peruvian-circular-trenches-thing/"
     -
-      _id: "121"
-      comment_count: 2
+      _id: 121
       comment: "Wow thats cool, I’ve always wanted to see Machu Picchu. Did the Incan’s shave off the top of the mountains to flatten them and then build on top? or were they already flat?"
       created: "March 13, 2011 at 9:39 am"
       name: "McKenzie"
       path: "/2011/02/19/machu-picchures/"
-      child_id: "124"
-      child_comment: "Hmm, good question. I’m not sure. They were able to flatten parts of the mountain to build those terraces, but I don’t know if the big flat spaces at the top were man-made."
-      child_created: "March 13, 2011 at 10:40 am"
-      child_name: "Mike"
-      child_path: "/2011/02/19/machu-picchures/"
-      child_depth: 2
+      child_id: 124
     -
-      _id: "110"
+      _id: 124
+      comment: "Hmm, good question. I’m not sure. They were able to flatten parts of the mountain to build those terraces, but I don’t know if the big flat spaces at the top were man-made."
+      created: "March 13, 2011 at 10:40 am"
+      name: "Mike"
+      path: "/2011/02/19/machu-picchures/"
+      depth: 2
+    -
+      _id: 110
       comment: "WOW, that last cuy photo has it looking like skeletal remains arranged for a museum exhibit. But no… just Mike’s dinner. Good on you for your adventurous appetite."
       created: "February 16, 2011 at 10:20 pm"
       name: "Doni"
       path: "/2011/02/16/i-ate-a-guinea-pig/"
     -
-      _id: "105"
-      comment_count: 3
+      _id: 105
       comment: "So I take it you prefer Chris’ classes to Nick’s?"
       created: "February 15, 2011 at 10:50 pm"
       name: "Al"
       path: "/2011/02/15/cusco-kind-of-sucks/"
-      child_id: "106"
-      child_comment: "Nick’s compliments aren’t sincere?!?!"
-      child_created: "February 15, 2011 at 10:53 pm"
-      child_name: "Mike"
-      child_path: "/2011/02/15/cusco-kind-of-sucks/"
-      child_depth: 2
-      child2_id: "107"
-      child2_comment: "Well, when he’s talking to me they are."
-      child2_created: "February 15, 2011 at 11:02 pm"
-      child2_name: "Al"
-      child2_path: "/2011/02/15/cusco-kind-of-sucks/"
+      child_id: 106
+    -
+      _id: 106
+      comment: "Nick’s compliments aren’t sincere?!?!"
+      created: "February 15, 2011 at 10:53 pm"
+      name: "Mike"
+      path: "/2011/02/15/cusco-kind-of-sucks/"
+      depth: 2
+      child2_id: 107
+    -
+      _id: 107
+      comment: "Well, when he’s talking to me they are."
+      created: "February 15, 2011 at 11:02 pm"
+      name: "Al"
+      path: "/2011/02/15/cusco-kind-of-sucks/"
       child2_depth: 3
     -
-      _id: "137"
+      _id: 137
       comment: "Sam’s Club is way better anyhow"
       created: "March 21, 2011 at 6:22 pm"
       name: "Al"
       path: "/2011/02/15/cusco-kind-of-sucks/"
     -
-      _id: "98"
+      _id: 98
       comment: "The next section: Greene’s Theorem"
       created: "February 9, 2011 at 10:53 am"
       name: "Al"
       path: "/2011/02/09/my-spanish-workbook-is-trying-to-make-me-feel-stupid/"
     -
-      _id: "99"
+      _id: 99
       comment: "All of those answers are in your Spanish book. I should know, I was a Spanish teacher."
       created: "February 9, 2011 at 11:45 am"
       name: "Rachel"
       path: "/2011/02/09/my-spanish-workbook-is-trying-to-make-me-feel-stupid/"
     -
-      _id: "103"
+      _id: 103
       comment: "I like how the biggest word tag that isn’t a place (ecuador, peru) is “confusion.” sounds like you’re doing it right"
       created: "February 9, 2011 at 10:03 pm"
       name: "McKenzie"
       path: "/2011/02/09/my-spanish-workbook-is-trying-to-make-me-feel-stupid/"
     -
-      _id: "97"
+      _id: 97
       comment: "<p>“Joel flees the store and who should be walking by right at that moment?”</p><p>I believe you meant to write Mike leaves the store.</p><p>What are dads for? ;-)"
       created: "February 9, 2011 at 8:18 am"
       name: "hired_gun"
       path: "/2011/02/07/mike-tries-to-watch-a-peruvian-soap-opera/"
     -
-      _id: "87"
+      _id: 87
       comment: "Oh Mikey, you make me proud. At Dallas’/John’s ABC birthday party, I did a saran wrap dress with paper towels (as I too discovered the opaque myth). Gets sweaty as hell in there, and unfortunately paper shifts a lot… bringing a back up dress was a good last minute decision that night."
       created: "February 2, 2011 at 2:30 pm"
       name: "Doni"
       path: "/2011/02/02/anything-but-clothes-party/"
     -
-      _id: "90"
+      _id: 90
       comment: "oh! I know where you got your fabulous training for costumes….your Mother always did that up just super fine!"
       created: "February 8, 2011 at 9:29 pm"
       name: "Carolyn Wakefield"
       path: "/2011/02/02/anything-but-clothes-party/"
     -
-      _id: "100"
+      _id: 100
       comment: "I will have to remember in the future that pelvic cast > diaper."
       created: "February 9, 2011 at 12:26 pm"
       name: "Joslyn Rosbrook"
       avatar: "http://1.gravatar.com/avatar/d9c41acce9db7e034cf25ef0aa3082f7?s=40&d=mm&r=pg"
       path: "/2011/02/02/anything-but-clothes-party/"
     -
-      _id: "86"
+      _id: 86
       comment: "<p>There are some words that we Canadians have trouble “Americanizing”. When I lived down south I probably started to get a southern accent mixed with “soary” and “aboot”. Most of us don’t hear it in ourselves, however, I met someone from Saskatchewan and they had a much thicker accent – full of “aboot”s and “eh”s.</p><p>Great blog Mike!</p>"
       created: "February 1, 2011 at 4:02 am"
       name: "Andrew Murley"
       path: "/2011/01/31/im-worldly-enough-to-be-able-to-identify-exactly-two-accents/"
     -
-      _id: "94"
+      _id: 94
       comment: "Mike, I think you should attempt to confuse the native speaking population wherever you are by using Blanche DuBois’ line from Tennessee Williams’ play, “A Streetcar Named Desire” : ‘I have always relied upon the kindness of strangers.’ in a really overdone southern accent when the opportunity presents itself for you."
       created: "February 8, 2011 at 9:54 pm"
       name: "Carolyn Wakefield"
       path: "/2011/01/31/im-worldly-enough-to-be-able-to-identify-exactly-two-accents/"
     -
-      _id: "78"
+      _id: 78
       comment: "<p>If you haven’t been scammed, you haven’t traveled. Next time, just be prepared to out-trick the tricksters. Carry around your own counterfeit bills just in case. I can foresee nothing going wrong with that.</p><p>When I was in Thailand, I just wanted to be able to walk around exploring like I could in Europe without someone asking me to come see a “Thai factory” to benefit the “Thai school children.” One day this guy asks me if I need directions, I say no, he insists on giving them to me, then calls over a tuk-tuk to take me there. I say no thanks, and then they give me a whole spiel about how it’s a special Thai holiday, so any tuk tuks with a red banner are free to ride in and they’ll give me a tour of the city. I know it’s a scam, but I’m like, hmmm I wonder if I can get a free ride out of this. So I said okay, but first I have to pick something up from my hotel. I went back, asked at the front desk whether or not this was a scam and if I would get my head chopped off if I went with them. The concierge said yes to the first, but no to the second. The “scam” was that they were going to take me to yet another one of these goddamn “Thai factories” in hopes that I’d buy some merchandise, and then the store owners would pay the tuk tuk drivers their gas money, but I’d still get to see the sites.</p><p>So I hopped in the tuk tuk and away we went. After each site, the tuk tuk driver would be driving along, and then he’d hit his head dramatically and go, “I’ve got the best idea! I’ll take you by this amazing Thai factory!” After the third time that this happened I said to him, “Look, let’s be honest here. I know you’re doing this for gas money. Cut the act, just drop me at these places, I’ll pretend to be interested for five minutes, you get your gas money, and then we can go. Okay?” Deal. And so I ended up having a great free tour of Bangkok.</p><p>This also lead to a joyous experience in one of these said Thai factories where a racist salesman asked if black people lived near me and I got to say, “Dude, they’re EVERYWHERE!” But that’s a story for another day.</p><p>Hmmm… not sure what my point here was. I guess…. take advantage of the scammers before they take advantage of you! Although, that’s also a good way to get killed…</p>"
       created: "January 29, 2011 at 5:39 pm"
       name: "Leah Kaminsky"
       avatar: "http://2.gravatar.com/avatar/e9a33e73c95043bf7bf78ed2bae7f0d1?s=40&d=mm&r=pg"
       path: "/2011/01/29/i-done-been-had/"
     -
-      _id: "81"
+      _id: 81
       comment: "yo Leah, no offense, but wtf. stop hijacking Mike’s blog. You totally counterblogged him within his comments. Comments are reserved for things like, “omg that’s so amazing. I totally plan to travel” or “im so jealous you’re so free out there.”"
       created: "January 31, 2011 at 10:17 pm"
       name: "Al"
       path: "/2011/01/29/i-done-been-had/"
     -
-      _id: "82"
+      _id: 82
       comment: "<p>OMG that’s so amazing. I totally plan to travel after I’m done posting 148,923 more posts about my work this busy season. I’m so jealous you’re so free out there.</p><p>:)</p>"
       created: "February 1, 2011 at 12:19 am"
       name: "Olivia"
       path: "/2011/01/29/i-done-been-had/"
     -
-      _id: "84"
+      _id: 84
       comment: "I know. It started out simple, then just kind of grew. I hesitated, then pushed submit anyway. I’m a douche."
       created: "February 1, 2011 at 12:25 am"
       name: "Leah Kaminsky"
       avatar: "http://2.gravatar.com/avatar/e9a33e73c95043bf7bf78ed2bae7f0d1?s=40&d=mm&r=pg"
       path: "/2011/01/29/i-done-been-had/"
     -
-      _id: "91"
+      _id: 91
       comment: "<p>I did not know these rules about blogs. So glad I was informed before it was too late! I nearly commented about the time I took Jessalyn to Paris to see her book that was part of an art exhibit a few years ago and ALMOST got scammed by a young girl with a fake wedding ring that she “found.” But guess I now know I will just have to start my own blog to tell that story.</p><p>Thank you Al!</p>"
       created: "February 8, 2011 at 9:38 pm"
       name: "Carolyn Wakefield"
       path: "/2011/01/29/i-done-been-had/"
     -
-      _id: "92"
+      _id: 92
       comment: "<p>However Leah, I appreciated your story and now know how to workit when I get to Thailand.</p><p>UMMM. at the risk of breaching blogging etiquette, anyone care to give me a very brief description of scams to watch out for in the Dominican Republic?</p>"
       created: "February 8, 2011 at 9:41 pm"
       name: "Carolyn Wakefield"
       path: "/2011/01/29/i-done-been-had/"
     -
-      _id: "93"
+      _id: 93
       comment: "<p>@Carolyn – A friend sent me this blog post before I left and I found it useful. It’s based on South America in general, but I’d imagine it’s good to watch out for in DR as well.</p><p><a href='http://www.rooshv.com/10-common-travel-scams'>http://www.rooshv.com/10-common-travel-scams</a></p>"
       created: "February 8, 2011 at 9:51 pm "
       name: "Mike"
       path: "/2011/01/29/i-done-been-had/"
     -
-      _id: "95"
+      _id: 95
       comment: "Thanks!"
       created: "February 8, 2011 at 10:44 pm"
       name: "Carolyn Wakefield"
       path: "/2011/01/29/i-done-been-had/"
     -
-      _id: "96"
+      _id: 96
       comment: "<p>:D</p><p>I’m excited that so many of these comments somehow refer to me.</p><p>@Carolyn – I once made a friend named Jessalyn! It’s probably not the same person though.</p>"
       created: "February 8, 2011 at 11:54 pm"
       name: "Al"
       path: "/2011/01/29/i-done-been-had/"
     -
-      _id: "101"
+      _id: 101
       comment: "this is a great blog. hilarious and informative!"
       created: "February 9, 2011 at 9:57 pm"
       name: "McKenzie"
       path: "/2011/01/29/i-done-been-had/"
     -
-      _id: "75"
+      _id: 75
       comment: "<p>I want a personal trainer. But I hate going to gyms. In fact, I hate working out. So, what I actually want is this totally toned body without having to do anything to get it. How much does that cost in what ever country you are in today? And just to make certain it works out all fine and dandy, I will be certain to say “Hi” before I get this mythical trainer. But only in Lima.</p><p>Michael, so glad you have this blog going. I love reading it.</p>"
       created: "January 22, 2011 at 1:40 pm"
       name: "Carolyn Wakefield"
       path: "/2011/01/20/getting-back-in-shape-in-lima/"
     -
-      _id: "83"
+      _id: 83
       comment: "<p>hahahaha.</p><p>It’s so hard to pick up on these things in different cultures!!!! I am glad I can live vicariously through you here. This is hilar.</p>"
       created: "February 1, 2011 at 12:25 am"
       name: "Olivia"
       path: "/2011/01/20/getting-back-in-shape-in-lima/"
     -
-      _id: "102"
-      comment_count: 2
+      _id: 102
       comment: "aww poor guy. you should definitely let him help you every once in a while"
       created: "February 9, 2011 at 10:00 pm"
       name: "McKenzie"
       path: "/2011/01/20/getting-back-in-shape-in-lima/"
-      child_id: "745"
-      child_comment: "When you visit a country for the first time, it is your job to do, at least, a little research about their culture. Most people in Peru are very friendly to foreigners. And yes, when you get jn a place you say hi, in Peru. If you fail to do so, you are being disrespectful. I felt the same way you did, when I first arrived in the USA and people never said hi to anybody, anywhere! and I did not get upset. When you are visiting a Spanish speaking country, you expect people to speak perfect English? and if they have visitors from france, they will have to speak in French, too?. God!! . You were visiting a poor country, have some mercy!!!. How many items can you buy at the dollar store for $ 1.80? 5,8,15?. Can anybody expect first class Gym, and service for that amount?. THI IS SO SHOCKING!!!!!!!!."
-      child_created: "November 11, 2013 at 12:27 am"
-      child_name: "alexia torres"
-      child_path: "/2011/01/20/getting-back-in-shape-in-lima/"
-      child_depth: 2
+      child_id: 745
     -
-      _id: "69"
+      _id: 745
+      comment: "When you visit a country for the first time, it is your job to do, at least, a little research about their culture. Most people in Peru are very friendly to foreigners. And yes, when you get jn a place you say hi, in Peru. If you fail to do so, you are being disrespectful. I felt the same way you did, when I first arrived in the USA and people never said hi to anybody, anywhere! and I did not get upset. When you are visiting a Spanish speaking country, you expect people to speak perfect English? and if they have visitors from france, they will have to speak in French, too?. God!! . You were visiting a poor country, have some mercy!!!. How many items can you buy at the dollar store for $ 1.80? 5,8,15?. Can anybody expect first class Gym, and service for that amount?. THI IS SO SHOCKING!!!!!!!!."
+      created: "November 11, 2013 at 12:27 am"
+      name: "alexia torres"
+      path: "/2011/01/20/getting-back-in-shape-in-lima/"
+      depth: 2
+    -
+      _id: 69
       comment: "Well done sir. I am exceedingly jealous and proud."
       created: "January 13, 2011 at 4:57 pm"
       name: "Sam Cook"
       path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
     -
-      _id: "70"
+      _id: 70
       comment: "Like!"
       created: "January 13, 2011 at 5:00 pm"
       name: "Al"
       path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
     -
-      _id: "71"
+      _id: 71
       comment: "Way to spread your Ivy American Charm through out Latin America!"
       created: "January 13, 2011 at 7:31 pm"
       name: "Cjp"
       path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
     -
-      _id: "72"
-      comment_count: 2
+      _id: 72
       comment: "Way to spread your privileged American Ivy charm through Latin America."
       created: "January 13, 2011 at 7:32 pm"
       name: "Court"
       path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
-      child_id: "73"
+      child_id: 73
       child_comment: "It is my humble gift to the people of South America"
       child_created: "January 13, 2011 at 8:54 pm"
       child_name: "Mike"
       child_path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
       child_depth: 2
     -
-      _id: "85"
+      _id: 85
       comment: "I can’t wait to see what happens to that guy when he comes to the US and says that about a girl. A slap in the face is highly probable."
       created: "February 1, 2011 at 12:27 am"
       name: "Olivia"
       path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
     -
-      _id: "130"
+      _id: 130
       comment: "<p>jajajaj it is so funny how you write my name culeado!</p><p>I am here to aprobe your story, absolutly true. I didn t know about the blog, I love travel blogs. I will become a follower.</p><p>We are waiting for you in Argentina! Be ready for a lot of ‘Daaaamns!</p><p>Kisses!</p><p>Agus.</p>"
       created: "March 17, 2011 at 4:17 pm"
       name: "Agustina"
       path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
     -
-      _id: "101"
+      _id: 101
       comment: "this is a great blog. hilarious and informative!"
       created: "February 9, 2011 at 9:57 pm"
       name: "McKenzie"
       path: "/2011/01/13/teaching-argentinians-to-objectify-women/"
     -
-      _id: "60"
+      _id: 60
       comment: "Is “schmello” slang? Plz introduce it to the Galapagos."
       created: "January 5, 2011 at 1:43 pm"
       name: "Al"
       path: "/2011/01/05/learning-spanish-in-the-galpagos/"
     -
-      _id: "61"
+      _id: 61
       comment: "100 approvals"
       created: "January 6, 2011 at 3:42 am"
       name: "okay"
       path: "/2011/01/05/learning-spanish-in-the-galpagos/"
     -
-      _id: "76"
+      _id: 76
       comment: "My favorite restaurant in Washington Heights is called El Malecon. If it means boardwalk, I don’t really understand why, considering there’s no boardwalks in upper Manhattan."
       created: "January 27, 2011 at 3:02 pm"
       name: "John"
       path: "/2011/01/05/learning-spanish-in-the-galpagos/"
     -
-      _id: "54"
+      _id: 54
       comment: "Feliz año nuevo!"
       created: "January 2, 2011 at 7:28 pm"
       name: "Mike W"
       path: "/2011/01/02/new-years-in-the-galpagos/"
     -
-      _id: "55"
+      _id: 55
       comment: "And now, my Best New Year’s ever. I love you both, Mom"
       created: "January 2, 2011 at 7:44 pm"
       name: "BeeHilly"
       path: "/2011/01/02/new-years-in-the-galpagos/"
     -
-      _id: "57"
+      _id: 57
       comment: "After the fire starts, Mike turns to the girl next to him and says, “Me gusta fuego.”"
       created: "January 3, 2011 at 3:09 pm"
       name: "Rachel Lynch"
       path: "/2011/01/02/new-years-in-the-galpagos/"
     -
-      _id: "59"
+      _id: 59
       comment: "“Esta es mi tierra linda el Ecuador tiene de todooo!! rios, montes y valles si señor y minas de oro!!!” … QUE VIVA EL ECUADOOOOR!!!"
       created: "January 5, 2011 at 11:27 am"
       name: "Pame"
       path: "/2011/01/02/new-years-in-the-galpagos/"
     -
-      _id: "63"
+      _id: 63
       comment: "Hola Mike y Rachel, por favor agreguenme en facebook para poder ver las fotos abajo del agua del tour que hicimos en Isabela el 2 enero, he buscado a Rachel Lynch pero hay cientos y no te he podido encontrar, yo son Nicolas Rotmistrovsky, como mi apellido es mas complicado (solo hay 2 personas con mi nombre y apellido, yo soy el que esta en la foto de perfil con mi mujer, ambos con camiseta gris) va a sr mas facil que tu me agregues.<br/>Mil gracias y sigan disfrutando todo lo lindo de Ecuador"
       created: "January 7, 2011 at 12:05 pm"
       name: "nicolas rotmistrovsky"
       path: "/2011/01/02/new-years-in-the-galpagos/"
     -
-      _id: "53"
+      _id: 53
       comment: "Hi Michael! and “HellO” to Rachel, as well. I’m so excited that you are blogging about your travels. So is your Mother, because now I don’t have to bug her all the time about you/your trip!"
       created: "January 1, 2011 at 9:37 pm"
       name: "Carolyn Wakefield"
       path: "/2010/12/24/the-quito-mall-experience/"
     -
-      _id: "43"
+      _id: 43
       comment: "Yo soy señor Menestras, el jefe de Menestras Del Negro. Yo creo que *tu* eres la racista! Neustro comida esta como preparado en casa; la casa de los negros, cual es muy cucio y feo. Yo tengo mucho dinero y chicas, tu eres mi puta."
       created: "December 22, 2010 at 12:47 am"
       name: "Señor Menestras"
       url: "http://www.menestrasdelnegro.com"
       path: "/2010/12/21/figuring-out-lunch-in-quito/"
     -
-      _id: "39"
+      _id: 39
       comment: "<p>Too many clothes… Otherwise you packed well!! I always take too many books and travel guides. The lonely planet one was great for peru, but we found that the maps were sometimes a bit off in chile.</p><p>Remember, *when* you get to Peru, I can give you a tonne of recommendations!</p><p>Again. I’m super jealous. Have fun!</p>"
       created: "December 16, 2010 at 8:01 pm"
       name: "Tilly"
       path: "/2010/12/16/im-off/"
     -
-      _id: "40"
+      _id: 40
       comment: "Godspeed."
       created: "December 16, 2010 at 9:15 pm"
       name: "Sam Cook"
       path: "/2010/12/16/im-off/"
     -
-      _id: "41"
+      _id: 41
       comment: "I’m glad you brought a sharp knife… you know, after what happened in 127 Hours."
       created: "December 16, 2010 at 11:24 pm"
       name: "Al"
       path: "/2010/12/16/im-off/"
     -
-      _id: "62"
+      _id: 62
       comment: "Hi Mike,<br/>have you been in Isabela the 3rd january? If yes, I made the Bahia Tour with you and Rachel. I am trying to find Rachel Lynch in facebook to see the pictures underwater but there are thousands of Rachel Lynch!!!<br/>Best Regards"
       created: "January 7, 2011 at 11:56 am"
       name: "nicolas rotmistrovsky"
       path: "/2010/12/16/im-off/"
     -
-      _id: "2"
+      _id: 2
       comment: "wow, i never thought a travel blog could ever be this interesting. If this is just practice, i can only begin to imagine how amazing a real pretentious blog will be! Please be sure to include an entry about the “native” cultures, which are really…my ancestors, it would mean a lot. Is your next practice blog going to be about Lynwood? I hear it’s a lot like Redmond, with more guns and drugs."
       created: "October 4, 2010 at 9:44 am"
       name: "jovanna"
       avatar: "http://0.gravatar.com/avatar/03db7e0be4acf111ca74dea46b9cfe5d?s=40&d=mm&r=pg"
       path: "/2010/10/04/mikes-travel-blog-practice-edition/"
     -
-      _id: "3"
+      _id: 3
       comment: "This is just a practice comment, wherein I will attempt to applaud the author of the blog post for his intelligent observations, with which I agree wholeheartedly. Had he written anything contrary to my established and superior opinion set, I would have expressed my deference in more terse and crude manner. That not being the case, I’ll end my post by encouraging the author this doppleganger “Mike” to continue his blogging efforts, and I will be an active reader, looking forward to his future travelling wisdom and anecdotes."
       created: "October 4, 2010 at 11:25 am"
       name: "Mike W."
       path: "/2010/10/04/mikes-travel-blog-practice-edition/"
     -
-      _id: "4"
+      _id: 4
       comment: "I’m glad you could connect with that poor Asian child."
       created: "October 10, 2010 at 10:32 pm"
       name: "Leah Kaminsky"
@@ -690,7 +705,7 @@
       url: "http://leahkaminsky.wordpress.com/"
       path: "/2010/10/04/mikes-travel-blog-practice-edition/"
     -
-      _id: "52"
+      _id: 52
       comment: "See, that just goes to show you what the unscrupulous natives will try to pull on unsuspecting tourists. That sandwich is clearly not just “grilled chicken” but is in fact “flattened pig meat” and frozen meat wafer, a clever substitute often plied on the unsuspecting. You gotta watch out for this type of scam ’cause they can see you coming a mile away. Redmond is famous for a seemingly casual vibe but is, in fact, a hotbed of explotative merchants. You did get all your shots, didn’t you?"
       created: "December 31, 2010 at 10:30 am"
       name: "JD"
