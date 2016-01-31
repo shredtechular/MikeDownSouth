@@ -1,0 +1,34 @@
+---
+  recent-posts-title: "Recent Posts"
+  recent-comments-title: "Recent Comments"
+  archives-title: "Archives"
+  tag-cloud-title: "Tags"
+  fav-blogs:
+    title: "Blogs I Like"
+    items:
+    -
+      name: "History of the Letter"
+      url: "http://historyoftheletter.wordpress.com/"
+      open-in-new: false
+    -
+      name: "Is it Gross?"
+      url: "http://isitgross.com/"
+      open-in-new: true
+      rel: "friend"
+    -
+      name: "Jeetorious"
+      title: "Life through poker"
+      url: "http://www.jeetorious.com"
+      open-in-new: false
+    -
+      name: "Moonwel ot Cosideme"
+      url: "http://moonside.wordpress.com/"
+      open-in-new: true
+      rel: "friend"
+  software-projects:
+    title: "My Software Projects"
+    items:
+    -
+      name: "AllYourTexts"
+      url: "http://allyourtexts.com"
+      open-in-new: true
