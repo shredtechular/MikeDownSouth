@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "My Spanish Workbook is Trying to Make Me Feel Stupid"
+title: "My Spanish Workbook is Trying to Make Me Feel Stupid"
 author: "Mike"
 category: "travel"
 tags: [spanish]

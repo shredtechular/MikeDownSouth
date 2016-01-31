@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Mike Tries to Watch a Peruvian Soap Opera"
+title: "Mike Tries to Watch a Peruvian Soap Opera"
 author: "Mike"
 category: "travel"
 tags: [al fondo hay sitio, lima, peru, telenovelas, tv]

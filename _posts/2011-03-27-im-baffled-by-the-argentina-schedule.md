@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "I’m Baffled by the Argentina Schedule"
+title: "I’m Baffled by the Argentina Schedule"
 author: "Mike"
 category: "travel"
 tags: [argentina, buenos aires, vacation]

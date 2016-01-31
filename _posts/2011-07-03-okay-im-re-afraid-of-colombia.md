@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Okay, I’m Re-Afraid of Colombia"
+title: "Okay, I’m Re-Afraid of Colombia"
 author: "Mike"
 category: "travel"
 tags: [colombia, freaking out, medellin]

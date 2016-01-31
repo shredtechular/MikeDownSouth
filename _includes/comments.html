@@ -3,7 +3,7 @@
 
 {% if comment-counter > 0 %}
 <div id="comments">
-  <h3 id="comments-title">{{comment-counter}} Response{% if comment-counter > 1%}s{% endif %} to <em>{{page.breadcrumb}}</em></h3>
+  <h3 id="comments-title">{{comment-counter}} Response{% if comment-counter > 1%}s{% endif %} to <em>{{page.title}}</em></h3>
   <ol class="commentlist">
 
   {% for comment in site.data.comments.sessions %}

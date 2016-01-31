@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "The Five People You Meet in Hostels"
+title: "The Five People You Meet in Hostels"
 author: "Mike"
 category: "travel"
 tags: [hostels, stereotypes]

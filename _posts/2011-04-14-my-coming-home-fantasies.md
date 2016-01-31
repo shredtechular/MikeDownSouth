@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "My Coming Home Fantasies"
+title: "My Coming Home Fantasies"
 author: "Mike"
 category: "travel"
 tags: [america, coming home, food, tv]

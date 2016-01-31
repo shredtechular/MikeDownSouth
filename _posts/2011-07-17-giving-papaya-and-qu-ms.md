@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Giving Papaya and “¿Qué Más?”"
+title: "Giving Papaya and “¿Qué Más?”"
 author: "Mike"
 category: "travel"
 tags: [colombia, language, medellin]

@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Getting Back in Shape in Lima"
+title: "Getting Back in Shape in Lima"
 author: "Mike"
 category: "travel"
 tags: [confusion, gym, lima, peru]

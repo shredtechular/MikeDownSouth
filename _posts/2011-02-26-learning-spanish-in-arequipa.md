@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Learning Spanish in Arequipa"
+title: "Learning Spanish in Arequipa"
 author: "Mike"
 category: "travel"
 tags: [arequipa, confusion, peru, spanish]

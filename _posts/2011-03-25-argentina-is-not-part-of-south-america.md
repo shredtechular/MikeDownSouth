@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Argentina is Not Part of South America"
+title: "Argentina is Not Part of South America"
 author: "Mike"
 category: "travel"
 tags: [apartments, argentina, buenos aires, salta]

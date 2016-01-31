@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Night of Argentinian Comedy"
+title: "Night of Argentinian Comedy"
 author: "Mike"
 category: "travel"
 tags: [argentina, buenos aires, comedy]

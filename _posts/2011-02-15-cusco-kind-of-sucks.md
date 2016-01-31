@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Cusco Kind of Sucks"
+title: "Cusco Kind of Sucks"
 author: "Mike"
 category: "travel"
 tags: [cusco, peru, whining]

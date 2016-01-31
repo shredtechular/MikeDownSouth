@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "The Fancypants Colombia Apartment"
+title: "The Fancypants Colombia Apartment"
 author: "Mike"
 category: "travel"
 tags: [apartments, colombia, medellin, pictures]

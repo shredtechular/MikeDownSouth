@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Lake Titicaca"
+title: "Lake Titicaca"
 author: "Mike"
 category: "travel"
 tags: [lake titicaca, peru, pictures, puno]

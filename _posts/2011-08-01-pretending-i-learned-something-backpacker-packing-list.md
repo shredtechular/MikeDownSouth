@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Pretending I Learned Something: Backpacker Packing List"
+title: "Pretending I Learned Something: Backpacker Packing List"
 author: "Mike"
 category: "travel"
 tags: [packing list, pretending i learned something, supplies, travel tips]
