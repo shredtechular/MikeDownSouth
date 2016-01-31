@@ -1376,3 +1376,13 @@ code {
 		border: none;
 	}
 }
+
+/* =Modified Styles for Markdown Content
+-------------------------------------------------------------- */
+.entry-content img {
+	display: block;
+  margin: 0 auto;
+}
+#comments .commentlist .comment-body {
+	margin-bottom: 24px;
+}
