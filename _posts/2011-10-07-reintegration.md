@@ -20,8 +20,6 @@ Before I came back, I was looking forward to how ordered and organized everythin
 
 [![Lionel Hutz Attorney at Law Business Card (The Simpsons)]({{ site.baseurl }}/images/2011/10/lionel_hutz_thumb.jpg)]({{ site.baseurl }}/images/2011/10/lionel_hutz.jpg)
 
-**Lionel Hutz Attorney at Law Business Card (The Simpsons)**
-
 In the US, things are definitely a lot more ordered and there is more accountability, but I realized that when I was in South America, I was remembering a romanticized version of the US where everything is super efficient and organized. In reality, there's a lot in the US that's backwards and messy. I was immediately confronted with this when I landed in Ft. Lauderdale and had to stand in different lines for 2 hours straight just to get through passport control, customs, and security. Finding an apartment in Manhattan was such a backwards, convoluted process that I know if I had gone through it while still in South America, I'd have thought to myself, “This would *never* happen in America!”
 
 Even so, I have a newfound appreciation for the fact that there's a lot that you *can* rely on in the US. Like how official cabs are easy to distinguish from unofficial cabs and your chances of getting robbed by your cabbie in Manhattan are infinitesimal. Or how it's pretty rare for a cop to shake you down for a bribe when you haven't done anything wrong.
