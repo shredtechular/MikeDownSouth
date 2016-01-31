@@ -10,7 +10,7 @@ My favorite part about Quicentro, the mall in Quito, is how easy it is to maim y
 
 The highlight of the ropes course for me is this series of rope bridges that are around ten feet off the ground. Note that I said *ground*. Not ten feet above a ball pit or a big foam mat, but the cold, hard tile of the arcade floor. The same floor that everyone’s walking on, so if you timed it right, your child could take out an unsuspecting arcade patron in their fall from the rope bridge.
 
-[![IMG_4102]({{ site.baseurl }}/images/2010/12/IMG_4102_thumb1.jpg)]({{ site.basurl }}/images/2010/12/IMG_41021.jpg)
+[![IMG_4102]({{ site.baseurl }}/images/2010/12/IMG_4102_thumb1.jpg)]({{ site.baseurl }}/images/2010/12/IMG_41021.jpg)
 
 As you can see in the picture, these rope bridges are HARD! Kids are expected to walk between these little arcs of rope hanging from the ceiling two feet apart and get from one platform to the next. They get to wear helmets, but that seemed to be it in the way of precautions. There’s not even a staffer monitoring the course.
 

@@ -10,7 +10,7 @@ The boardwalk is called the **malecón** and not the **maricón** which means �
 
 **Viruenza** means “shame,” which I already knew, so I assumed **sin viruenza** simply meant “without shame” but apparently it doesn’t, though I’m still not entirely clear on what it means. The first time I heard it, I had just turned to Pamela after she served me ceviche and said, “Que reeeeco! [Yummy!]” and Javier smiled and said quietly to me, “sin viruenza.” The next night, I said something complimentary to Lorena and she smiled and shook her head and said, “sin viruenza.” At the time I thought she was quoting Javier, but it turns out she was just saying it too. The way it was explained to me, it’s sort of like calling someone a “player.” Javier was implying that I was hitting on Pamela and then Lorena was implying that I was trying to pursue both her and Pamela simultaneously, making me a “sin viruenza.”
 
-[![IMG_4127]({{ site.baseurl }}/images/2011/01/IMG_4127_thumb.jpg)]({{ site.basurl }}/images/2011/01/IMG_4127.jpg)
+[![IMG_4127]({{ site.baseurl }}/images/2011/01/IMG_4127_thumb.jpg)]({{ site.baseurl }}/images/2011/01/IMG_4127.jpg)
 
 **Caña** is a type of liquor they sell in the Galapagos that mixes well with Sprite and was a favorite drink among our friends during nights on the maricón malecón. Caña is spelled with a’s, not o’s, however, so when I mistakenly asked Jonny if he had, “bought **coños**,” the reason everyone started giggling was because I’d just asked him whether he’d bought “vaginas.”
 

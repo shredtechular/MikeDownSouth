@@ -8,11 +8,11 @@ tags: [confusion, ecuador, food, language, quito]
 
 For my first lunch on my own in Quito, I decided to just head into Old Town and wander around until I found something that looked good and cheap. The first restaurant I came across was Menestras del Negro:
 
-[![IMG_4070]({{ site.baseurl }}/images/2010/12/IMG_4070_thumb.jpg)]({{ site.basurl }}/images/2010/12/IMG_4070.jpg)
+[![IMG_4070]({{ site.baseurl }}/images/2010/12/IMG_4070_thumb.jpg)]({{ site.baseurl }}/images/2010/12/IMG_4070.jpg)
 
 It translates to “Beans of the Black” and if you’re not sure whether this is bizarrely offensive yet, take a closer look at the logo.
 
-[![head]({{ site.baseurl }}/images/2010/12/head_thumb.jpg)]({{ site.basurl }}/images/2010/12/head.jpg)
+[![head]({{ site.baseurl }}/images/2010/12/head_thumb.jpg)]({{ site.baseurl }}/images/2010/12/head.jpg)
 
 As an added stereotyping bonus, it’s attached to a KFC. I was sufficiently weirded out so I continued on.
 
