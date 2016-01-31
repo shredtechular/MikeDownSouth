@@ -11,5 +11,7 @@ layout: default
 
 {% assign post = page %}
 
-{% comment %}<!-- List comments for Blog -->{% endcomment %}
-{% include comments.html %}
+{% unless page.audience == "404" %}
+	{% comment %}<!-- List comments for Blog -->{% endcomment %}
+	{% include comments.html %}
+{% endunless %}
