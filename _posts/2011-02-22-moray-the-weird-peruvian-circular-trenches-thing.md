@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Moray: The Weird Peruvian Circular Trenches Thing"
+title: "Moray: The Weird Peruvian Circular Trenches Thing"
 author: "Mike"
 category: "travel"
 tags: [arequipa, confusion, peru, spanish]

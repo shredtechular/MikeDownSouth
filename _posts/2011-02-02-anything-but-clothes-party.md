@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Anything But Clothes Party"
+title: "Anything But Clothes Party"
 author: "Mike"
 category: "travel"
 tags: [costumes, lima, parties, peru]

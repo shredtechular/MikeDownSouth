@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Reintegration"
+title: "Reintegration"
 author: "Mike"
 category: "travel"
 tags: [america, coming home, new york]

@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Mike’s Travel Blog: Practice Edition"
+title: "Mike’s Travel Blog: Practice Edition"
 author: "Mike"
 category: "travel"
 tags: []

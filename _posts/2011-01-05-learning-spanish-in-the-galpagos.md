@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Learning Spanish in the Galápagos"
+title: "Learning Spanish in the Galápagos"
 author: "Mike"
 category: "travel"
 tags: [ecuador, galapagos, spanish]

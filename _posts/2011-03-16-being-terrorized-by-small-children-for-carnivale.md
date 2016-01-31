@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Being Terrorized by Small Children for Carnivale"
+title: "Being Terrorized by Small Children for Carnivale"
 author: "Mike"
 category: "travel"
 tags: [arequipa, festivals, peru, puno]

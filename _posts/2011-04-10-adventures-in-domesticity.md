@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Adventures in Domesticity"
+title: "Adventures in Domesticity"
 author: "Mike"
 category: "travel"
 tags: [apartments, argentina, buenos aires, food]

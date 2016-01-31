@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "The 3 Month Mark"
+title: "The 3 Month Mark"
 author: "Mike"
 category: "travel"
 tags: [checkpoints]

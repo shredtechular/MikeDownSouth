@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Parapente (Paragliding) in San Felix, Colombia"
+title: "Parapente (Paragliding) in San Felix, Colombia"
 author: "Mike"
 category: "travel"
 tags: [colombia, medellin, paragliding, pictures]

@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Let’s Talk Movies"
+title: "Let’s Talk Movies"
 author: "Mike"
 category: "travel"
 tags: [confusion, movies]

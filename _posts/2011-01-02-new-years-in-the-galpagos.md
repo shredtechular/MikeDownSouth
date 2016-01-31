@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "New Year’s in the Galápagos"
+title: "New Year’s in the Galápagos"
 author: "Mike"
 category: "travel"
 tags: [ecuador, fire, galapagos, new years, traditions]

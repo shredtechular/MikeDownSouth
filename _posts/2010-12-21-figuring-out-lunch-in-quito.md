@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Figuring out Lunch in Quito"
+titel: "Figuring out Lunch in Quito"
 author: "Mike"
 category: "travel"
 tags: [confusion, ecuador, food, language, quito]

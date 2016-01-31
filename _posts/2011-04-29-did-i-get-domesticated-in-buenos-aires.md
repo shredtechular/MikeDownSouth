@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Did I Get Domesticated in Buenos Aires?"
+title: "Did I Get Domesticated in Buenos Aires?"
 author: "Mike"
 category: "travel"
 tags: [argentina, buenos aires, culture, girls]

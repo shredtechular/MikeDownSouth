@@ -7,7 +7,7 @@ layout: default
 
 <!-- content -->
 <div class="post type-post status-publish format-standard hentry">
-  <h1 class="entry-title">{{page.breadcrumb}}</h1>
+  <h1 class="entry-title">{{page.title}}</h1>
   <div class="entry-meta">
     <span class="meta-prep meta-prep-author">Posted on</span>
     <a href="{{site.baseurl}}{{page.url}}" title="{{ page.date | date: '%B %d, %Y' }}" rel="bookmark"><span class="entry-date">{{ page.date | date: '%B %d, %Y' }}</span></a> <span class="meta-sep">by</span>
@@ -25,7 +25,7 @@ layout: default
     {% for tag in page.tags %}
       <a href="{{ site.baseurl }}/tag/{{ tag | replace: ' ', '-' }}/" rel="tag">{{ tag }}</a>{% if forloop.last %}.{% else %},{% endif %}
     {% endfor %}
-    Bookmark the <a href="{{ site.baseurl }}{{ page.url }}" title="Permalink to {{page.breadcrumb}}" rel="bookmark">permalink</a>               
+    Bookmark the <a href="{{ site.baseurl }}{{ page.url }}" title="Permalink to {{page.title}}" rel="bookmark">permalink</a>               
   </div>
 
 </div>

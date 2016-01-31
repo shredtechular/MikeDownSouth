@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Pretending I Learned Something: Hostels"
+title: "Pretending I Learned Something: Hostels"
 author: "Mike"
 category: "travel"
 tags: [hostels, pretending i learned something, travel tips]

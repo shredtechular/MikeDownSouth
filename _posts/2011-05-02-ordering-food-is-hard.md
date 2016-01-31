@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Ordering Food is Hard"
+title: "Ordering Food is Hard"
 author: "Mike"
 category: "travel"
 tags: [argentina, buenos aires, confusion, food]

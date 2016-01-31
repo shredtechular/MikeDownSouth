@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Colombian Girls are the Most Confusing Girls to Date"
+title: "Colombian Girls are the Most Confusing Girls to Date"
 author: "Mike"
 category: "travel"
 tags: [colombia, confusion, girls, medellin]
