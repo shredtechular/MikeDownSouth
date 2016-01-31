@@ -45,10 +45,11 @@
     </div><!-- #container -->
 
 
-
+<!-- Siderail -->
 <div id="primary" class="widget-area" role="complementary">
   <ul class="xoxo">
 
+    <!-- Recent Posts -->
     <li id="recent-posts-2" class="widget-container widget_recent_entries">
       <h3 class="widget-title">Recent Posts</h3>
       <ul>
@@ -58,17 +59,37 @@
       </ul>
     </li>
 
+    <!-- Recent Comments -->
     <li id="recent-comments-2" class="widget-container widget_recent_comments">
       <h3 class="widget-title">Recent Comments</h3>
       <ul id="recentcomments">
-        <li class="recentcomments"><span class="comment-author-link">Mat</span> on <a href="http://mikedownsouth.com/2011/05/14/my-favorite-juan-quotes/#comment-3585">My Favorite Juan Quotes</a></li>
-        <li class="recentcomments"><span class="comment-author-link">alexia torres</span> on <a href="http://mikedownsouth.com/2011/01/20/getting-back-in-shape-in-lima/#comment-745">Getting Back in Shape in Lima</a></li>
-        <li class="recentcomments"><span class="comment-author-link">Jenny</span> on <a href="http://mikedownsouth.com/about/#comment-299">About</a></li>
-        <li class="recentcomments"><span class="comment-author-link">Martin</span> on <a href="http://mikedownsouth.com/2011/07/10/colombian-girls-are-the-most-confusing-girls-to-date/#comment-295">Colombian Girls are the Most Confusing Girls to Date</a></li>
-        <li class="recentcomments"><span class="comment-author-link">Renee Lautmann</span> on <a href="http://mikedownsouth.com/2011/10/07/reintegration/#comment-263">Reintegration</a></li>
-      </ul>
+
+      {% assign sorted-comments = (site.data.comments.sessions | sort: '_id' | reverse) %}
+
+      {% for comment in sorted-comments limit:5 %}
+        {% assign blog-title = "" %}
+        {% for post in site.posts %}
+          {% if comment.path == post.url %}
+            {% assign blog-title = post.title %}
+          {% endif %}
+        {% endfor %}
+
+        {% if blog-title == "" %}
+          {% assign blog-title = "" %}
+          {% for page in site.pages %}
+            {% if comment.path == page.url %}
+              {% assign blog-title = page.breadcrumb %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+
+          <li class="recentcomments"><span class="comment-author-link">{{ comment.name }}</span> on <a href="{{ site.baseurl }}{{ comment.path }}#comment-{{ comment._id }}">{{blog-title}}</a></li>     
+
+        {% endfor %}
+        </ul>
     </li>
 
+    <!-- Archives -->
     <li id="archives-2" class="widget-container widget_archive">
       <h3 class="widget-title">Archives</h3>
       <ul>
@@ -82,55 +103,20 @@
       </ul>
     </li>
 
+    <!-- Tag Cloud -->
     <li id="tag_cloud-3" class="widget-container widget_tag_cloud">
       <h3 class="widget-title">Tags</h3>
-      <div class="tagcloud"><a href="http://mikedownsouth.com/tag/accents/" class="tag-link-31" title="1 topic" style="font-size: 8pt;">accents</a>
-        <a href="http://mikedownsouth.com/tag/al-fondo-hay-sitio/" class="tag-link-36" title="1 topic" style="font-size: 8pt;">al fondo hay sitio</a>
-        <a href="http://mikedownsouth.com/tag/america/" class="tag-link-51" title="2 topics" style="font-size: 10.863636363636pt;">america</a>
-        <a href="http://mikedownsouth.com/tag/apartments/" class="tag-link-49" title="3 topics" style="font-size: 12.772727272727pt;">apartments</a>
-        <a href="http://mikedownsouth.com/tag/arequipa/" class="tag-link-41" title="3 topics" style="font-size: 12.772727272727pt;">arequipa</a>
-        <a href="http://mikedownsouth.com/tag/argentina/" class="tag-link-48" title="8 topics" style="font-size: 18.340909090909pt;">argentina</a>
-        <a href="http://mikedownsouth.com/tag/banos/" class="tag-link-17" title="1 topic" style="font-size: 8pt;">banos</a>
-        <a href="http://mikedownsouth.com/tag/buenos-aires/" class="tag-link-47" title="7 topics" style="font-size: 17.545454545455pt;">buenos aires</a>
-        <a href="http://mikedownsouth.com/tag/checkpoints/" class="tag-link-45" title="2 topics" style="font-size: 10.863636363636pt;">checkpoints</a>
-        <a href="http://mikedownsouth.com/tag/colombia/" class="tag-link-59" title="6 topics" style="font-size: 16.75pt;">colombia</a>
-        <a href="http://mikedownsouth.com/tag/coming-home/" class="tag-link-52" title="3 topics" style="font-size: 12.772727272727pt;">coming home</a>
-        <a href="http://mikedownsouth.com/tag/confusion/" class="tag-link-9" title="9 topics" style="font-size: 19.136363636364pt;">confusion</a>
-        <a href="http://mikedownsouth.com/tag/cordoba/" class="tag-link-55" title="2 topics" style="font-size: 10.863636363636pt;">cordoba</a>
-        <a href="http://mikedownsouth.com/tag/costumes/" class="tag-link-32" title="1 topic" style="font-size: 8pt;">costumes</a>
-        <a href="http://mikedownsouth.com/tag/culture/" class="tag-link-18" title="2 topics" style="font-size: 10.863636363636pt;">culture</a>
-        <a href="http://mikedownsouth.com/tag/cusco/" class="tag-link-37" title="4 topics" style="font-size: 14.363636363636pt;">cusco</a>
-        <a href="http://mikedownsouth.com/tag/ecuador/" class="tag-link-13" title="5 topics" style="font-size: 15.636363636364pt;">ecuador</a>
-        <a href="http://mikedownsouth.com/tag/fire/" class="tag-link-24" title="1 topic" style="font-size: 8pt;">fire</a>
-        <a href="http://mikedownsouth.com/tag/food/" class="tag-link-14" title="6 topics" style="font-size: 16.75pt;">food</a>
-        <a href="http://mikedownsouth.com/tag/galapagos/" class="tag-link-21" title="2 topics" style="font-size: 10.863636363636pt;">galapagos</a>
-        <a href="http://mikedownsouth.com/tag/girls/" class="tag-link-27" title="3 topics" style="font-size: 12.772727272727pt;">girls</a>
-        <a href="http://mikedownsouth.com/tag/gym/" class="tag-link-29" title="1 topic" style="font-size: 8pt;">gym</a>
-        <a href="http://mikedownsouth.com/tag/hostels/" class="tag-link-62" title="2 topics" style="font-size: 10.863636363636pt;">hostels</a>
-        <a href="http://mikedownsouth.com/tag/language/" class="tag-link-15" title="3 topics" style="font-size: 12.772727272727pt;">language</a>
-        <a href="http://mikedownsouth.com/tag/leaving/" class="tag-link-8" title="1 topic" style="font-size: 8pt;">leaving</a>
-        <a href="http://mikedownsouth.com/tag/lima/" class="tag-link-28" title="4 topics" style="font-size: 14.363636363636pt;">lima</a>
-        <a href="http://mikedownsouth.com/tag/malls/" class="tag-link-19" title="1 topic" style="font-size: 8pt;">malls</a>
-        <a href="http://mikedownsouth.com/tag/mancora/" class="tag-link-25" title="1 topic" style="font-size: 8pt;">mancora</a>
-        <a href="http://mikedownsouth.com/tag/medellin/" class="tag-link-60" title="5 topics" style="font-size: 15.636363636364pt;">medellin</a>
-        <a href="http://mikedownsouth.com/tag/new-years/" class="tag-link-22" title="1 topic" style="font-size: 8pt;">new years</a>
-        <a href="http://mikedownsouth.com/tag/parties/" class="tag-link-33" title="1 topic" style="font-size: 8pt;">parties</a>
-        <a href="http://mikedownsouth.com/tag/peru/" class="tag-link-26" title="14 topics" style="font-size: 22pt;">peru</a>
-        <a href="http://mikedownsouth.com/tag/pictures/" class="tag-link-16" title="8 topics" style="font-size: 18.340909090909pt;">pictures</a>
-        <a href="http://mikedownsouth.com/tag/pretending-i-learned-something/" class="tag-link-65" title="2 topics" style="font-size: 10.863636363636pt;">pretending I learned something</a>
-        <a href="http://mikedownsouth.com/tag/puno/" class="tag-link-43" title="2 topics" style="font-size: 10.863636363636pt;">puno</a>
-        <a href="http://mikedownsouth.com/tag/quito/" class="tag-link-12" title="2 topics" style="font-size: 10.863636363636pt;">quito</a>
-        <a href="http://mikedownsouth.com/tag/salta/" class="tag-link-46" title="2 topics" style="font-size: 10.863636363636pt;">salta</a>
-        <a href="http://mikedownsouth.com/tag/scams/" class="tag-link-30" title="1 topic" style="font-size: 8pt;">scams</a>
-        <a href="http://mikedownsouth.com/tag/seattle/" class="tag-link-7" title="1 topic" style="font-size: 8pt;">seattle</a>
-        <a href="http://mikedownsouth.com/tag/spanish/" class="tag-link-20" title="3 topics" style="font-size: 12.772727272727pt;">spanish</a>
-        <a href="http://mikedownsouth.com/tag/supplies/" class="tag-link-10" title="2 topics" style="font-size: 10.863636363636pt;">supplies</a>
-        <a href="http://mikedownsouth.com/tag/telenovelas/" class="tag-link-35" title="1 topic" style="font-size: 8pt;">telenovelas</a>
-        <a href="http://mikedownsouth.com/tag/traditions/" class="tag-link-23" title="1 topic" style="font-size: 8pt;">traditions</a>
-        <a href="http://mikedownsouth.com/tag/travel-tips/" class="tag-link-66" title="2 topics" style="font-size: 10.863636363636pt;">travel tips</a>
-        <a href="http://mikedownsouth.com/tag/tv/" class="tag-link-34" title="2 topics" style="font-size: 10.863636363636pt;">tv</a>
+      <div class="tagcloud">
+
+      {% assign sorted_tags = (site.tags | sort:0) %}
+
+      {% for tag in sorted_tags %}
+        <a href="{{ site.baseurl }}/tag/{{ tag | first | slugize | replace: ' ', '-' }}/" title="{{ tag[1].size }} topics" style="font-size: {{ tag | last | size | times: 90 | divided_by: site.tags.size | plus: 7 }}pt">{{ tag | first }}</a>
+      {% endfor %}
+
       </div>
     </li>
+
     <li id="linkcat-6" class="widget-container widget_links">
       <h3 class="widget-title">Blogs I Like</h3>
       <ul class="xoxo blogroll">

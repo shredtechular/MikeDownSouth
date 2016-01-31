@@ -1,10 +1,6 @@
 {% assign comment-counter = 0 %}
 {% for comment in site.data.comments.sessions %}
   {% if comment.path == post.url %}
-    {% if comment.comment_count %}
-      {% assign comment-counter = comment-counter | plus:comment.comment_count %}      
-    {% else %}
       {% assign comment-counter = comment-counter | plus:1 %}
-    {% endif %}
   {% endif %}
 {% endfor %}
