@@ -12,23 +12,23 @@ Current Build Status is: [![Build Status](https://secure.travis-ci.org/TheWaySnr
 
 ## Site Structure
 
-### _data 
+#### _data 
 Directory contains a yml file with a list of comments.
 
-### _includes 
+#### _includes 
 Contains several partials that are common to several generated pages.
 
-### _layouts 
+#### _layouts 
 Contains the templates that are used to generate the commonality of the pages (default is the main one that all the pages use.
 
-### _pages 
+#### _pages 
 Contains all non-blog post pages  broken up into sub-folders. Used mostly for setting up the different categories, monthly archives, author, and tag pages, but does also contain the about page. The homepage is in the root (index.html) as that is where it needed to be for pagination to work on the main page.
 
-### _posts
+#### _posts
 Contains all of the individual blog entries.  In order to customize the "extract" of the blog that is shown on archives pages, it is possilbe to add this html comment `<!--more-->` to mark where the "extract" should end.  Otherwise, the "extract" will show the first paragraph by default.
 
-### css 
+#### css 
 Contains the css for the project.
 
-### images 
+#### images 
 Contains all the image files broken out by month
