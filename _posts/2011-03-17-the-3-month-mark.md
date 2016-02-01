@@ -12,7 +12,7 @@ I left the US on Dec. 16th, 2010 and arrived in Quito, Ecuador on Dec. 17th so, 
 
 I’ve spent about 30% of the money I set aside for this trip and I’ve done so in the following fashion:
 
-[![image]({{ site.baseurl }}/images/2011/03/image_thumb.png)]({{ site.basurl }}/images/2011/03/image.png)
+[![image]({{ site.baseurl }}/images/2011/03/image_thumb.png)]({{ site.baseurl }}/images/2011/03/image.png)
 
 It’s hard to project this into the next few months because it includes a lot of one-time costs at the beginning of the trip (gear, evacuation insurance, etc.), but also was in countries that are cheaper than the places I’ll be for the rest of the trip. If I had to guess I’d say my money can last me about another 6-9 months.
 

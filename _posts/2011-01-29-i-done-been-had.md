@@ -12,7 +12,7 @@ Apparently his passenger (a woman in her 50’s or 60’s) didn’t have bills s
 
 The astute reader has probably figured out at this point that this was no ordinary bill breaking, but in fact… a **scam**! I tried to pay for lunch later using one of the 20’s and the waitress rejected the bill as “raro” (“strange”) but she couldn’t say for sure it was counterfeit. I clung to the hope that she was just confused; the bills seemed real to me. They had watermarks when held to the light and had special shiny ink in the right places. I tried someplace else and they said the bill felt wrong and wouldn’t accept it. Back at my hostel, I showed the bills to the staff at reception (both native Peruvians) and one guy said the bills were fine, just newly printed so they felt weird. Hooray! Sadly, the girl working with him immediately burst my bubble. The bills were definitely counterfeit. On real 20’s, the little purple/orange box in the lower left-hand corner has a subtle “20” in it when you look at it at the right angle and these bills did not.
 
-[![IMG_4223]({{ site.baseurl }}/images/2011/01/IMG_4223_thumb.jpg)]({{ site.basurl }}/images/2011/01/IMG_4223.jpg)
+[![IMG_4223]({{ site.baseurl }}/images/2011/01/IMG_4223_thumb.jpg)]({{ site.baseurl }}/images/2011/01/IMG_4223.jpg)
 
 So it’s official: I got scammed. I was taken for 60 Peruvian soles (about $22). I feel kind of stupid, but not *that* stupid. As far as scams go, I think this one was fairly non-obvious. At the time, I was aware of the fact that this could be a scam, but it seemed unlikely. I thought, “This requires a 30something cabbie to be in cahoots with this 50 or 60 year old woman.” If it was just a cabbie by himself I’d have definitely said no, but the tricky old woman / young man pair bamboozled me.
 

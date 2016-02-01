@@ -9,6 +9,7 @@ include: ['_pages']
 markdown: rdiscount
 paginate: 5
 paginate_path: "page/:num"
+destination:  ./_site/MikeDownSouth
 exclude:
   - .gitignore
   - README.md
