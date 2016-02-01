@@ -52,7 +52,7 @@ The biggest thing I've taken away from my trip is that **financial independence 
 
 Obviously it's not easy to make this happen because you do sort of *need* a job so that you can eat and pay for things. When traveling, you're a lot more likely to meet people who have figured out some sort of sustainable means of financial independence, so the possibility of living without a job seems more realistic. Some people have it arranged so that they have to work hard for a while then they can relax for a while. Other people have figured out ways of making money that are mostly passive and only require a few hours of work per week to maintain. This seems to be the way to go and after traveling I'm much more motivated to build up sources of passive income so that I can eventually live off of that.
 
-![Image: Smiling businessman holding money bags]({{ site.baseurl }}/images/2011/10/smiling-businessman-holding-money-bags.jpg)]
+![Image: Smiling businessman holding money bags]({{ site.baseurl }}/images/2011/10/smiling-businessman-holding-money-bags.jpg)
 
 Note to potential employers: if you've found this blog, I'm just kidding. I'll be your wage slave forever. I love working!
 
