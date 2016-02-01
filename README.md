@@ -12,7 +12,7 @@ Current Build Status is: [![Build Status](https://secure.travis-ci.org/TheWaySnr
 
 ## Site Structure
 
-### _data 
+#### _data 
 Directory contains a yml file with a list of comments.
 
 ### _includes 
