@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "I’m Worldly Enough to be Able to Identify Exactly Two Accents"
+title: "I’m Worldly Enough to be Able to Identify Exactly Two Accents"
 author: "Mike"
 category: "travel"
 tags: [accents, confusion, peru]

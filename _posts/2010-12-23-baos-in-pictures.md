@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "The Quito Mall Experience"
+title: "The Quito Mall Experience"
 author: "Mike"
 category: "travel"
 tags: [banos, ecuador, pictures]

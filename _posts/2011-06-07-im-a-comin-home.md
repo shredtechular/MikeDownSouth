@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "I'm a' Comin' Home!"
+title: "I'm a' Comin' Home!"
 author: "Mike"
 category: "travel"
 tags: [coming home]

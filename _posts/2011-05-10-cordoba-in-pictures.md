@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Cordoba in Pictures"
+title: "Cordoba in Pictures"
 author: "Mike"
 category: "travel"
 tags: [argentina, cordoba, pictures]

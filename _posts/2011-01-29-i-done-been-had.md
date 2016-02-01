@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "I done been had!"
+title: "I done been had!"
 author: "Mike"
 category: "travel"
 tags: [lima, peru, scams]

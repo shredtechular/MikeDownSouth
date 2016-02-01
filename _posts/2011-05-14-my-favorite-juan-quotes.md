@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "My Favorite Juan Quotes"
+title: "My Favorite Juan Quotes"
 author: "Mike"
 category: "travel"
 tags: [argentina, cordoba, quotes]

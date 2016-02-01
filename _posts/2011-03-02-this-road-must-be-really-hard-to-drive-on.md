@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "This road must be really hard to drive on!"
+title: "This road must be really hard to drive on!"
 author: "Mike"
 category: "travel"
 tags: [arequipa, peru, pictures]

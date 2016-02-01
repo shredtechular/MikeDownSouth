@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Colombia Has Weird Stuff"
+title: "Colombia Has Weird Stuff"
 author: "Mike"
 category: "travel"
 tags: [bogota, colombia]

@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Taking a Week Off"
+title: "Taking a Week Off"
 author: "Mike"
 category: "travel"
 tags: [argentina, buenos aires, vacation]

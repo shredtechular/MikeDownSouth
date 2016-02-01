@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "I Ate a Guinea Pig"
+title: "I Ate a Guinea Pig"
 author: "Mike"
 category: "travel"
 tags: [cusco, food, peru]

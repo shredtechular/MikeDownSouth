@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Machu Picchures"
+title: "Machu Picchures"
 author: "Mike"
 category: "travel"
 tags: [cusco, machu picchu, peru, pictures]

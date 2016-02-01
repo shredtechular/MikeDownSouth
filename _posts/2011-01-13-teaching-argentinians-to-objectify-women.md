@@ -1,6 +1,6 @@
 ---
 layout: blog
-breadcrumb: "Teaching Argentinians to Objectify Women"
+title: "Teaching Argentinians to Objectify Women"
 author: "Mike"
 category: "travel"
 tags: [girls, language, mancora, peru]
