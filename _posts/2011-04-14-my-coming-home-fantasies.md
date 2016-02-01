@@ -9,7 +9,7 @@ tags: [america, coming home, food, tv]
 Coming home is still many months away, but I was recently talking to Al about the stuff I’m looking forward to doing when I come home. He told me that listening to me talk about my coming home fantasies made him understand how people feel when they listen to him talk about what he’s going to eat when his fasts end. So let’s start with food.
 
 <p><img src="{{ site.baseurl }}/images/2011/04/Quaker.jpg" alt="Quaker" style="display:inline;">
-	<a href="{{ site.baseurl }}/images/2011/04/GorditaCrunch.jpg" style="display: inline;"><img src="/images/2011/04/GorditaCrunch_thumb.jpg" alt="GorditaCrunch" style="display: inline;"></a>
+	<a href="{{ site.baseurl }}/images/2011/04/GorditaCrunch.jpg" style="display: inline;"><img src="{{ site.baseurl }}/images/2011/04/GorditaCrunch_thumb.jpg" alt="GorditaCrunch" style="display: inline;"></a>
 </p>
 
 I’m going to make oatmeal with old fashioned Quaker oatmeal, fresh blueberries, and Nestle chocolate chips. I’m going to get a chicken cutlet sandwich from Remi’s (in Pelham, NY). I’m going to get nachos with cheese and three cheesy gordita crunches from Taco Bell (I really hope they’re still making these; they start and stop offering this item at random).

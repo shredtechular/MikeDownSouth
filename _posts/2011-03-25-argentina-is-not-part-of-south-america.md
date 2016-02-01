@@ -10,7 +10,7 @@ tags: [apartments, argentina, buenos aires, salta]
 
 On my 24 hour bus ride from Arica, Chile to Salta, Argentina, the Canadian guy sitting next to me told me this. I thought he was kidding, but it turned out to be very true when I got to Salta. I mean, come on! This looks like Europe!
 
-[![IMG_4356]({{ site.baseurl }}/images/2011/03/IMG_4356_thumb.jpg)]({{ site.basurl }}/images/2011/03/IMG_4356.jpg)
+[![IMG_4356]({{ site.baseurl }}/images/2011/03/IMG_4356_thumb.jpg)]({{ site.baseurl }}/images/2011/03/IMG_4356.jpg)
 
 Further evidence that Argentina is actually part of Europe and not South America:
 

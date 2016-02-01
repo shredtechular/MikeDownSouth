@@ -8,7 +8,7 @@ tags: [girls, language, mancora, peru]
 
 My first stop in Peru was Máncora, which is a surfing / beach party town in the North. I’d heard about it from lots of people in my hostel in Quito and decided to check it out for myself. While there, I spent most of my time with this group of Argentinians I’d met at my hostel (seen here playing an epic game of gigantic Jenga):
 
-[![IMG_4216]({{ site.baseurl }}/images/2011/01/IMG_4216_thumb.jpg)]({{ site.basurl }}/images/2011/01/IMG_4216.jpg)
+[![IMG_4216]({{ site.baseurl }}/images/2011/01/IMG_4216_thumb.jpg)]({{ site.baseurl }}/images/2011/01/IMG_4216.jpg)
 
 On my first night in Máncora, I was having dinner with Juan on the beach and we saw a really hot girl strip down to a bikini in front of us and I turned to Juan and said, “Daaaaamn!” He looked confused so I explained, “In America, when you see a hot girl you can say to your friend, ‘Daaaamn!’” Juan beamed and was immediately on board. He looked toward the girl and said, “DAN!” I corrected, “No, no. ‘Daaaamn.’” He seemed to get it and I figured my important cultural exchange was completed.
 

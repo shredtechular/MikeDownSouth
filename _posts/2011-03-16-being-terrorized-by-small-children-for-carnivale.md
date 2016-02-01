@@ -12,7 +12,7 @@ A week later, I was walking back to my hostel in Puno, but found that a huge str
 
 Two hours later, I went out for drinks with these two German girls who unfortunately looked *really* foreign. As soon as we stepped out onto the street, a bunch of little kids yelled out, “Gringas!” [“white girls!”] and started chasing us with their spray cans at full blast. There were women on the corner selling cans for ~$1.50 each so we each bought one to defend ourselves and ended up in a full scale war with all the little kids at this block party.
 
-[![IMG_4341]({{ site.baseurl }}/images/2011/03/IMG_4341_thumb.jpg)]({{ site.basurl }}/images/2011/03/IMG_4341.jpg)
+[![IMG_4341]({{ site.baseurl }}/images/2011/03/IMG_4341_thumb.jpg)]({{ site.baseurl }}/images/2011/03/IMG_4341.jpg)
 
 The funny part was you’d get into these standoffs with the little kids where there are like 3 surrounding you and you’d all be pointing your spray cans at each other waiting for somebody to make the first move. You’re both covered in foam, but the little kids stand there not firing like, “Well, I don’t want to escalate this to actually *spraying* each other…” But then of course you always end up spraying each other and running off.
 

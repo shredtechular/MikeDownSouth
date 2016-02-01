@@ -12,11 +12,11 @@ I didn’t have a lot to work with because I didn’t know the area around my ho
 
 The party was just starting to get going and I was in the bathroom, halfway through my single roll of saran wrap, when I realized – no, it does not become opaque. I was wearing mostly-transparent plastic shorts. As much as I like weird costumes, that’d be a bit much. I was trying to figure out a way to somehow salvage this, when I saw the answer right in front of me. Bam! Toilet paper. I mummy wrapped a bunch of toiler paper around myself, then wrapped the saran wrap over that to secure it. It worked! Except now the white color and plastic texture made it look like I was wearing a diaper. I started wrapping toilet paper down my legs to get closer to shorts, but when I finished it looked more like a big pelvic cast. Alright, better than diaper. Let’s go!
 
-[![IMG_4225]({{ site.baseurl }}/images/2011/02/IMG_4225_thumb.jpg)]({{ site.basurl }}/images/2011/02/IMG_4225.jpg)
+[![IMG_4225]({{ site.baseurl }}/images/2011/02/IMG_4225_thumb.jpg)]({{ site.baseurl }}/images/2011/02/IMG_4225.jpg)
 
 Okay, so by the time I thought to go grab my camera, gravity had taken its toll on the costume and I’d lost the legs a bit. As you can see, my prediction of lots of sheet costumes was correct, so when I showed up with my weird saran wrap thing, people were pretty into it.
 
-[![IMG_4227]({{ site.baseurl }}/images/2011/02/IMG_4227_thumb.jpg)]({{ site.basurl }}/images/2011/02/IMG_4227.jpg)
+[![IMG_4227]({{ site.baseurl }}/images/2011/02/IMG_4227_thumb.jpg)]({{ site.baseurl }}/images/2011/02/IMG_4227.jpg)
 
 Not everyone participated in the ABC theme. In fact, almost nobody else did except the 3 people pictured previously and two of the bartenders. So for most of the party, I was walking around in a bar full of ~20-30 normally dressed people while I was wearing just plastic and toilet paper.
 
