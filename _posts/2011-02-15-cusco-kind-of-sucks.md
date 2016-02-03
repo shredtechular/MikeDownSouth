@@ -8,7 +8,7 @@ tags: [cusco, peru, whining]
 
 I’ve been in Cusco, Peru for about a day now and the main thing I’m excited to do in Cusco is leave Cusco.
 
-To be fair, I disliked Cusco before I even got here. I was talking to a Canadian guy in Lima who told me how convenient it was in Cusco because everyone spoke English to him. That was about the time I suspected Cusco and I probably weren’t going to get along. On top of that, I came to Cusco directly from Lima and that’s a tough act to follow because I *loved* Lima. As soon as I arrived in Cusco, I could tell it was everything I’d feared ~~by focusing only on the aspects of the city that confirmed my pre-conceived notions about it~~.
+To be fair, I disliked Cusco before I even got here. I was talking to a Canadian guy in Lima who told me how convenient it was in Cusco because everyone spoke English to him. That was about the time I suspected Cusco and I probably weren’t going to get along. On top of that, I came to Cusco directly from Lima and that’s a tough act to follow because I *loved* Lima. As soon as I arrived in Cusco, I could tell it was everything I’d feared <del>by focusing only on the aspects of the city that confirmed my pre-conceived notions about it</del>.
 
 Walking around, I constantly get the sense that Cusco has two kinds of people: tourists and people who are trying to sell to tourists. Every block’s got a travel agency, a “traditional food” restaurant, an internet café, a massage parlor (I think legit?), a Peruvian crafts/art store…
 

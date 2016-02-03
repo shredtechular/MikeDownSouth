@@ -12,7 +12,7 @@ The boardwalk is called the **malecón** and not the **maricón** which means �
 
 [![IMG_4127]({{ site.baseurl }}/images/2011/01/IMG_4127_thumb.jpg)]({{ site.baseurl }}/images/2011/01/IMG_4127.jpg)
 
-**Caña** is a type of liquor they sell in the Galapagos that mixes well with Sprite and was a favorite drink among our friends during nights on the maricón malecón. Caña is spelled with a’s, not o’s, however, so when I mistakenly asked Jonny if he had, “bought **coños**,” the reason everyone started giggling was because I’d just asked him whether he’d bought “vaginas.”
+**Caña** is a type of liquor they sell in the Galapagos that mixes well with Sprite and was a favorite drink among our friends during nights on the <del>maricón</del> malecón. Caña is spelled with a’s, not o’s, however, so when I mistakenly asked Jonny if he had, “bought **coños**,” the reason everyone started giggling was because I’d just asked him whether he’d bought “vaginas.”
 
 A **buena chica**, is a “good girl” and it seems to have the same connotation as “good girl” does in English. A **chica buena** is a “*hot* girl” or as Ecuadorean girls say it to me, “a chhhhhot gayrl.” It isn’t quite the same as saying “hot girl” in English because three different people told me a girl would slap me if I actually called her that to her face, so I think it’s closer to saying something like, “a hot piece of ass” in America. Incidentally, when we were drinking Cañas on the malecon, I asked Sole if she was a “chica buena” and she thought for a second, nodded, and said, “sí,” and I got away unslapped.
 

@@ -6,9 +6,12 @@ sub_title: "Wandering around South America"
 permalink: /:year/:month/:day/:title/
 baseurl: /MikeDownSouth
 include: ['_pages']
-markdown: rdiscount
+
+# Gems
+gems: [jekyll-paginate]
 paginate: 5
 paginate_path: "page/:num"
+
 destination:  ./_site/MikeDownSouth
 exclude:
   - .gitignore
