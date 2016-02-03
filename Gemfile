@@ -8,4 +8,5 @@ gem 'github-pages', versions['github-pages']
 gem 'rdiscount'
 gem 'liquid'
 gem 'jekyll'
+gem 'jekyll-paginate'
 gem 'html-proofer'
