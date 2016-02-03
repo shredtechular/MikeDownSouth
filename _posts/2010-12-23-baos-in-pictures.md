@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "The Quito Mall Experience"
+title: "Baños in Pictures"
 author: "Mike"
 category: "travel"
 tags: [banos, ecuador, pictures]

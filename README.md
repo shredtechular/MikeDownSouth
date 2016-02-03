@@ -1,4 +1,4 @@
-# [MikeDownSouth](http://http://thewaysnrubthinks.github.io/MikeDownSouth/) Source Code
+# [MikeDownSouth](http://thewaysnrubthinks.github.io/MikeDownSouth/) Source Code
 
 This is the source code of MikeDownSouth, a personal blog built using [Jekyll](http://jekyllrb.com) and utilizing [GitHub Pages](https://pages.github.com/) to publish and host the site.
 
