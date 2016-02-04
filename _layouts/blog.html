@@ -26,6 +26,8 @@ layout: default
       {% for tag in page.tags %}
         <a href="{{ site.baseurl }}/tag/{{ tag | replace: ' ', '-' }}/" rel="tag">{{ tag }}</a>{% if forloop.last %}.{% else %},{% endif %}
       {% endfor %}
+    {% else %}
+    .
     {% endif %}
     Bookmark the <a href="{{ site.baseurl }}{{ page.url }}" title="Permalink to {{page.title}}" rel="bookmark">permalink</a>               
   </div>
