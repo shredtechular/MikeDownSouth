@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: uncategorized
+title: Uncategorized
 permalink: /category/uncategorized/
-archive-name: uncategorized
+archive-name: Uncategorized
 archive-type: Category
 ---
