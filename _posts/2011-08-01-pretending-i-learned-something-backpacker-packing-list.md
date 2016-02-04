@@ -8,11 +8,11 @@ tags: [packing list, pretending i learned something, supplies, travel tips]
 
 In this edition of "Pretending I Learned Something" I do a rundown of the gear I packed for my trip. I warn you in advance that this likely won't be very interesting unless you're planning to do a similar long-term backpacking trip (and even then, I make no promises). I won't be including any of this material on the Mike's blog exam I'll be administering to everyone when I return.
 
-##Packing Philosophy
+## Packing Philosophy
 
 My goal when putting together my gear for this trip was to get pretty close to the bare essentials. I thought there was a good chance of me losing my entire pack at some point and I wanted to be able to replace everything for about $1000 (excluding my laptop). I also wanted as much as possible to avoid things that were conspicuously expensive that would make me a target for theft/robbery.
 
-##Great Decision / Terrible Decision
+## Great Decision / Terrible Decision
 
 **Great Decision: [eBags Packing Cubes](http://www.amazon.com/eBags-Packing-Cubes-3pc-Titanium/dp/B0013KBVHM)**
 
@@ -62,7 +62,7 @@ A few months before my trip, a backpacker lamented to me how naïve and disgusti
 
 You don't need to pack these ahead of time, but they come in handy in lots of situations. You can use the trash bags in hostels for laundry. Ziploc bags are useful for packing snacks on long-distance bus rides (sometimes they serve you food, but it's never enough).
 
-##The Rest (in brief)
+## The Rest (in brief)
 
 **_Travel Stuff_**
 
