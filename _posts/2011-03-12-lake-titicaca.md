@@ -42,6 +42,6 @@ In the afternoon, the clouds cleared and we got really good views of the lake
 
 [![IMG_4338]({{ site.baseurl }}/images/2011/03/IMG_4338_thumb1.jpg)]({{ site.baseurl }}/images/2011/03/IMG_43381.jpg)
 
-It might look like I accidentally got a picture of this guy, but this was actually very deliberate because I thought he was John Waters (still not convinced it wasn’t him!).
+It might look like I accidentally got a picture of this guy, but this was actually very deliberate because I thought he was [John Waters](http://en.wikipedia.org/wiki/John_Waters_(filmmaker)){:target="_blank"} (still not convinced it wasn’t him!).
 
 [![IMG_4333]({{ site.baseurl }}/images/2011/03/IMG_4333_thumb1.jpg)]({{ site.baseurl }}/images/2011/03/IMG_43331.jpg)

@@ -16,6 +16,6 @@ It’s a very different feeling having a concrete end. At first, I was sad to ha
 
 Then I realized that two months is a long time. I have plenty of time to improve my Spanish. I have plenty of time for my pet projects. I also realized that since I’m coming home earlier than I planned, I can put off getting a job for a while. Putting off getting a job is a big plus, because, as should be obvious by now, I’m *reaaaaaally* unemployment spoiled.
 
-Once I thought about all that, having a final date became something I liked. I’m still thoroughly enjoying being in Colombia, but I’m also very excited about coming home. I’m excited to see my family, my friends, to own permanent possessions, to eat American foods, and basically everything else on my America fantasy checklist.
+Once I thought about all that, having a final date became something I liked. I’m still thoroughly enjoying being in Colombia, but I’m also very excited about coming home. I’m excited to see my family, my friends, to own permanent possessions, to eat American foods, and basically everything else on [my America fantasy checklist]({{ site.baseurl }}/2011/04/14/my-coming-home-fantasies/).
 
 So, America, see you in two months!

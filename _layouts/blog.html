@@ -21,10 +21,12 @@ layout: default
   <div class="entry-utility">
     This entry was posted in 
     <a href="{{ site.baseurl }}/category/{{page.category}}" rel="category tag">{{page.category}}</a> 
-    and tagged 
-    {% for tag in page.tags %}
-      <a href="{{ site.baseurl }}/tag/{{ tag | replace: ' ', '-' }}/" rel="tag">{{ tag }}</a>{% if forloop.last %}.{% else %},{% endif %}
-    {% endfor %}
+    {% if page.tags.size > 0 %}
+      and tagged  
+      {% for tag in page.tags %}
+        <a href="{{ site.baseurl }}/tag/{{ tag | replace: ' ', '-' }}/" rel="tag">{{ tag }}</a>{% if forloop.last %}.{% else %},{% endif %}
+      {% endfor %}
+    {% endif %}
     Bookmark the <a href="{{ site.baseurl }}{{ page.url }}" title="Permalink to {{page.title}}" rel="bookmark">permalink</a>               
   </div>
 

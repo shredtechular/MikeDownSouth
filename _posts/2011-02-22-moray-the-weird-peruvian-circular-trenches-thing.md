@@ -3,7 +3,7 @@ layout: blog
 title: "Moray: The Weird Peruvian Circular Trenches Thing"
 author: "Mike"
 category: "travel"
-tags: [arequipa, confusion, peru, spanish]
+tags: [cusco, moray, peru, pictures]
 ---
 
 Moray is one of the stranger tourist attractions I’ve seen. I constantly saw pictures of it on travel agency signs, including this one:

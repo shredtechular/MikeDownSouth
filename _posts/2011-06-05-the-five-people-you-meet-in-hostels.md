@@ -60,7 +60,7 @@ In a way, he’s like one of the locals. You can tell because he’s wearing a p
 
 [![partyguy]({{ site.baseurl }}/images/2011/06/guyoncouch.jpg)](http://lafavenews.livejournal.com/)
 
-There are some days where you’re exhausted from moving around constantly; you don’t give a shit about seeing another beautiful church, fascinating museum, or breathtaking mountain. You just want to sit in the lounge, check facebook, and watch old episodes of *Friends* that are played eight times daily here. For this guy, that day is all days. Generally, he’s here for some reason other than primarily travel, like he got sent here for work and decided to arrange an extension of a few days to explore the local culture. And what better way to understand the culture than by understanding their *pop* culture? For example, did you know that in South America, the show *House* is called *Doctor House*? This guy does.
+There are some days where you’re exhausted from moving around constantly; you don’t give a shit about seeing another beautiful church, fascinating museum, or breathtaking mountain. You just want to sit in the lounge, check facebook, and watch old episodes of *Friends* that are played eight times daily here. For this guy, that day is all days. Generally, he’s here for some reason other than primarily travel, like he got sent here for work and decided to arrange an extension of a few days to explore the local culture. And what better way to understand the culture than by [understanding their *pop* culture]({{ site.baseurl }}/2011/05/03/lets-talk-movies/)? For example, did you know that in South America, the show *House* is called *Doctor House*? This guy does.
 
 *Signature Quotes*
 

@@ -6,14 +6,14 @@ category: "travel"
 tags: [argentina, cordoba, quotes]
 ---
 
-In Cordoba, I was visiting my friend Juan, whom I’d met a few months ealier in Máncora. Over the course of my three days there, he said a lot that I really enjoyed. I’ve included my favorite quotes below. Keep in mind that he’s learning English and I’m still learning Spanish, so he talks to me in English and I talk to him in Spanish.
+In Cordoba, I was visiting my friend Juan, whom I’d met a few months ealier in [Máncora]({{ site.baseurl }}/2011/01/13/teaching-argentinians-to-objectify-women/). Over the course of my three days there, he said a lot that I really enjoyed. I’ve included my favorite quotes below. Keep in mind that he’s learning English and I’m still learning Spanish, so he talks to me in English and I talk to him in Spanish.
 
 [![IMG_4380]({{ site.baseurl }}/images/2011/05/IMG_4380_thumb.jpg)]({{ site.baseurl }}/images/2011/05/IMG_4380.jpg)
 
 **On teaching Americans not to objectify women:**<br/>
 (there’s a big group of guys applauding every so often at the outdoor bar we’re drinking at)
 
-Me: ¿Que hacen? [What are they doing?]
+Me: ¿Que hacen? [What are they doing?]<br/>
 Juan: Oh, sometimes men here when they see very beautiful girls walk by, they applaud. But… do not do that. Especially if you are alone. It would look very strange if you are by yourself applauding girls that are walking.
 
 **On apartment prices in Cordoba:**
@@ -29,10 +29,10 @@ Juan: Oh, sometimes men here when they see very beautiful girls walk by, they ap
 
 **On my misguided approach to meeting Argentinian girls in clubs:**
 
-Juan: (explaining to his friend) He walks to them and says (putting his hand on his friend’s shoulder to demonstrate what I do) ‘Hi, how are you? My name is Mike.’ It’s crazy!
-Me: ¿No puedo tocar sus hombros? [I can’t touch their shoulders?]
-Juan: No! You have to talk to them for 15 minutes first. (back to his friend) And he touches their hair!
-Me: ¿No puedo tocar su pelo? [I can’t touch their hair?]
+Juan: (explaining to his friend) He walks to them and says (putting his hand on his friend’s shoulder to demonstrate what I do) ‘Hi, how are you? My name is Mike.’ It’s crazy!<br/>
+Me: ¿No puedo tocar sus hombros? [I can’t touch their shoulders?]<br/>
+Juan: No! You have to talk to them for 15 minutes first. (back to his friend) And he touches their hair!<br/>
+Me: ¿No puedo tocar su pelo? [I can’t touch their hair?]<br/>
 Juan: No! You NEVER touch an Argentine girl’s hair.
 
 **On the contrast between dating in the US and dating in Argentina:**

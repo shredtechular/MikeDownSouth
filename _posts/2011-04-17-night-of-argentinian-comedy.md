@@ -6,7 +6,7 @@ category: "travel"
 tags: [argentina, buenos aires, comedy]
 ---
 
-In the US, I see a lot of live comedy. I’ve been in comedy withdrawal the past few months, as I never hear of any comedy shows in South America. That was why I was so excited last weekend when I was having dinner with my friend Agustina and she told me that Buenos Aires has a comedy scene. Not only is there a lot of stand-up, there’s *improv* too! No sketch, sadly. I was really curious to see what Argentinian improv would look like, so last night I went to check out [Misión: Improvisación](http://www.misionimprovisacion.com.ar/) in Capital Federal.
+In the US, I see a lot of live comedy. I’ve been in comedy withdrawal the past few months, as I never hear of any comedy shows in South America. That was why I was so excited last weekend when I was having dinner with my friend Agustina and she told me that Buenos Aires has a comedy scene. Not only is there a lot of stand-up, there’s *improv* too! No sketch, sadly. I was really curious to see what Argentinian improv would look like, so last night I went to check out [Misión: Improvisación](http://www.misionimprovisacion.com.ar/){:target="_blank"} in Capital Federal.
 
 It’s a two man show, consisting of a little guy with a lisp and a tall guy who may or may not have been Javier Bardem.
 

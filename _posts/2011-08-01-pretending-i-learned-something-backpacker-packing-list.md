@@ -72,7 +72,7 @@ Daypack ([Osprey Talon 22](http://www.rei.com/product/808306/osprey-talon-22-pac
 
 Waterproof Pack Cover – I've never had to use this because I've luckily never been caught out in the rain with my main pack, but probably good to have.
 
-Leather document holder - Not needed. Made unnecessary by money belt.
+Leather document holder – Not needed. Made unnecessary by money belt.
 
 Travel power converter – Useful, but only for the plug adaptors. All of my electronics (laptop, cell phone, camera battery charger) had voltage converters built-in, so I'd have been better off with just a set of plug adaptors to cover South America.
 
@@ -92,33 +92,33 @@ South America on a Shoestring (Lonely Planet) – Good bird's eye view of everyt
 
 **_Tools_**
 
-Mini Flashlight ([Fenix LD-01](http://www.fenixlight.com/viewproduct.asp?id=113)) - I carry it around with me all the time. Definitely useful for seeing your way around hostel dorms at night without being a jerk and turning all the lights on. Also fun to have in general because nobody ever expects you to have one and they're always delighted when you do. Dropped something on the floor in the dark club? Boom! Guess who's gonna help you out? You could get away with something less powerful, but I like how bright it is. Plus, I've never had to change the battery once in 8 months.
+Mini Flashlight ([Fenix LD-01](http://www.fenixlight.com/viewproduct.asp?id=113)) – I carry it around with me all the time. Definitely useful for seeing your way around hostel dorms at night without being a jerk and turning all the lights on. Also fun to have in general because nobody ever expects you to have one and they're always delighted when you do. Dropped something on the floor in the dark club? Boom! Guess who's gonna help you out? You could get away with something less powerful, but I like how bright it is. Plus, I've never had to change the battery once in 8 months.
 
-Multi Tool ([Leatherman Juice CS4](http://www.leathermanstore.com/leatcs4juicm.html)) - Came in very handy several times when I was in dorms, but after I started living in apartments, wasn't needed as much. Corkscrew was key.
+Multi Tool ([Leatherman Juice CS4](http://www.leathermanstore.com/leatcs4juicm.html)) – Came in very handy several times when I was in dorms, but after I started living in apartments, wasn't needed as much. Corkscrew was key.
 
 **_Clothing_**
 
 Here was my original clothing packing list:
 
-* 8 t-shirts
-* 2 gym shirts
-* 2 button downs
-* 2 pairs of shorts
-* 2 pairs of jeans
-* 1 pair of slacks
-* 1 pair of hiking pants
-* 8 pairs of boxers
-* 9 pairs of socks
-* 1 pair of sneakers
-* 1 pair of dress shoes (for da club)
-* 1 pair sandals (for da beach)
-* 1 thermal longsleeve shirt*
-* 1 sweatshirt*
-* 1 rain jacket*
-* 1 bathing suit*
-* 1 pair sunglasses*
-
-*forgot to mention in original post
+> * 8 t-shirts
+> * 2 gym shirts
+> * 2 button downs
+> * 2 pairs of shorts
+> * 2 pairs of jeans
+> * 1 pair of slacks
+> * 1 pair of hiking pants
+> * 8 pairs of boxers
+> * 9 pairs of socks
+> * 1 pair of sneakers
+> * 1 pair of dress shoes (for da club)
+> * 1 pair sandals (for da beach)
+> * 1 thermal longsleeve shirt*
+> * 1 sweatshirt*
+> * 1 rain jacket*
+> * 1 bathing suit*
+> * 1 pair sunglasses*
+>
+> *forgot to mention in original post
 
 Dress slacks were a bad idea. They get wrinkly and I rarely have access to an iron, so they end up taking up space and being an expensive thing to potentially lose/ruin.
 
@@ -128,23 +128,23 @@ Everything else worked out pretty well. I'd have maybe swapped out one of the bu
 
 **_Spanish Stuff_**
 
-Pocket Spanish Dictionary ([Webster's New World](http://www.amazon.com/Websters-Spanish-Dictionary-Revised-Updated/dp/047017823X)) - More useful than I was expecting. I almost didn't buy one because I figured I could look up words online, but the quality in here is better than anything I can find online and it's often more convenient to just look words up by hand.
+Pocket Spanish Dictionary ([Webster's New World](http://www.amazon.com/Websters-Spanish-Dictionary-Revised-Updated/dp/047017823X)) – More useful than I was expecting. I almost didn't buy one because I figured I could look up words online, but the quality in here is better than anything I can find online and it's often more convenient to just look words up by hand.
 
-Spanish Grammar Workbook ([Practice Makes Perfect: Complete Spanish Grammar](http://www.amazon.com/Practice-Makes-Perfect-Complete-Spanish/dp/0071422706)) - Didn't pack it, but my sister gave it to me since she didn't need it and it was really useful in helping me learn.
+Spanish Grammar Workbook ([Practice Makes Perfect: Complete Spanish Grammar](http://www.amazon.com/Practice-Makes-Perfect-Complete-Spanish/dp/0071422706)) – Didn't pack it, but my sister gave it to me since she didn't need it and it was really useful in helping me learn.
 
 **_Computer Stuff_**
 
 Laptop ([Toshiba Satellite T-235D](http://reviews.cnet.com/laptops/toshiba-satellite-t235d-s1345/4505-3121_7-34120474.html)) – For me a laptop was essential because all of my pet projects required me to have my own laptop. I wouldn't have been able to focus enough to write stuff like blog posts from a public computer. I was pretty happy with this one as far as performance, battery life, and disk size, except I felt like it got worse WiFi reception than other laptops.
 
-Laptop Sleeve ([Case Logic PLS-14](http://www.amazon.com/Case-Logic-PLS-14-14-1-Inch-Neoprene/dp/B0016P7HTU)) - Good case, pretty compact.
+Laptop Sleeve ([Case Logic PLS-14](http://www.amazon.com/Case-Logic-PLS-14-14-1-Inch-Neoprene/dp/B0016P7HTU)) – Good case, pretty compact.
 
-Laptop Security Lock - Definitely good to have. I always keep my laptop locked up.
+Laptop Security Lock – Definitely good to have. I always keep my laptop locked up.
 
-Portable Mouse ([Microsoft Wireless Notebook Optical Mouse](http://www.amazon.com/Microsoft-Wireless-Notebook-Optical-Mouse/dp/tech-data/B0002CPBWI)) - Nice and compact. I hate using the touchpad.
+Portable Mouse ([Microsoft Wireless Notebook Optical Mouse](http://www.amazon.com/Microsoft-Wireless-Notebook-Optical-Mouse/dp/tech-data/B0002CPBWI)) – Nice and compact. I hate using the touchpad.
 
-Portable Speakers ([KLIP xtreme KES-100](http://www.klipxtreme.com/dpg/kxProductDetail.aspx?pdt=160&ctg=12)) - Thought I wouldn't need speakers, but my laptop's speakers are terrible and listening to headphones for hours got tiresome after about a week, so I picked these up in Lima. Surprisingly good sound and powered by just USB.
+Portable Speakers ([KLIP xtreme KES-100](http://www.klipxtreme.com/dpg/kxProductDetail.aspx?pdt=160&ctg=12)) – Thought I wouldn't need speakers, but my laptop's speakers are terrible and listening to headphones for hours got tiresome after about a week, so I picked these up in Lima. Surprisingly good sound and powered by just USB.
 
-VoIP Headset ([Emerge Technologies Retractable Headset](http://www.amazon.com/gp/product/B001518LEA)) - Nice and compact. Good for VoIP calls home. No complaints about sound quality.
+VoIP Headset ([Emerge Technologies Retractable Headset](http://www.amazon.com/gp/product/B001518LEA)) – Nice and compact. Good for VoIP calls home. No complaints about sound quality.
 
 Canon Powershot 800IS, spare battery, charger – 4 years old at this point but sturdy little camera that takes solid photos.
 

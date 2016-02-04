@@ -8,9 +8,9 @@ tags: [ecuador, fire, galapagos, new years, traditions]
 
 After spending New Year's in the Galápagos, I’ve realized New Year’s in the US is missing several key things that Ecuadoreans have:
 
-Superstitions<br/>
-Costumes<br/>
-FIRE
+1. Superstitions
+2. Costumes
+3. FIRE
 
 The week leading up to New Year’s Eve, we were seeing lots of little papier-mâché dolls around town. It turns out these are called “viejos” (literally: “olds” or “old men”) and they’re made so they can be burnt at midnight on New Year’s. By New Year’s Eve, these dolls were *everywhere*. Most of the taxis had viejos strapped to their cars. Restaurants all had a viejo for their restaurant. Even the ATMs had them:
 
