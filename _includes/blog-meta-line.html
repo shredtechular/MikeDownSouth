@@ -1,7 +1,9 @@
+{% assign catDowncased = post.category | downcase | replace: ' ', '-' %}
+
   <div class="entry-utility">
     <span class="cat-links">
       <span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span>
-      <a href="{{ site.baseurl }}/category/{{ post.category | replace: ' ', '-' }}/" rel="category tag">{{ post.category }}</a>
+      <a href="{{ site.baseurl }}/category/{{ catDowncased }}/" rel="category tag">{{ post.category }}</a>
     </span>
     <span class="meta-sep">|</span>
     <span class="tag-links">
