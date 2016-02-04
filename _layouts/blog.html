@@ -20,7 +20,7 @@ layout: default
 <!-- blog meta information line -->
   <div class="entry-utility">
     This entry was posted in 
-    <a href="{{ site.baseurl }}/category/{{page.category}}" rel="category tag">{{page.category}}</a> 
+    <a href="{{ site.baseurl }}/category/{{ page.category | downcase}}" rel="category tag">{{page.category}}</a> 
     {% if page.tags.size > 0 %}
       and tagged  
       {% for tag in page.tags %}
