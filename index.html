@@ -4,7 +4,6 @@ audience: homepage
 ---
 
 {% if paginator.total_pages > 1 and paginator.page > 1 %}
-{{ paginator.page}}
 <div id="nav-below" class="navigation">
   {% if paginator.next_page %}
   <div class="nav-previous"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span class="meta-nav">←</span> Older posts</a></div>
