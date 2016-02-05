@@ -12,7 +12,7 @@
         <!-- skip-Nav -->
         <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
         <div class="menu">
-          <ul><li class="{% if page.url == "/index.html" %}current_page_item{% else %}page_item{% endif %}"><a href="{{site.baseurl}}/">Home</a></li>
+          <ul><li class="{% if page.url == "/" %}current_page_item{% else %}page_item{% endif %}"><a href="{{site.baseurl}}/">Home</a></li>
               <li class="{% if page.url == "/about/" %}current_page_item{% else %}page_item{% endif %}"><a href="{{site.baseurl}}/about/">About</a></li>
           </ul>
         </div>

@@ -3,6 +3,20 @@ layout: default
 audience: homepage
 ---
 
+{% if paginator.total_pages > 1 and paginator.page > 1 %}
+{{ paginator.page}}
+<div id="nav-below" class="navigation">
+  {% if paginator.next_page %}
+  <div class="nav-previous"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><span class="meta-nav">←</span> Older posts</a></div>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+  <div class="nav-next"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">Newer posts <span class="meta-nav">→</span></a></div>
+  {% endif %}
+
+</div>
+{% endif %}
+
 {% for post in paginator.posts %}
 
 <div class="post type-post status-publish format-standard hentry">
